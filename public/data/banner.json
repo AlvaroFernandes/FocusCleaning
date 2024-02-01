@@ -1,0 +1,94 @@
+{
+  "banner": [
+    {
+      "id": "b1",
+      "img": "/assets/img/backgrounds/basic-bg.jpg",
+      "color": "#fff",
+      "heading": "Basic Cleaning",
+      "motive": {
+        "m1": "We provide best satisfied",
+        "m2": "work for your house"
+      },
+      "title": {
+        "t1": "Focus Cleaning Sydney is a professional and affordable home cleaning company",
+        "t2": "With our team of amazing and well-trained cleaners, rest assured that no details will be ignored."
+      },
+      "link": "/services/basic"
+    },
+    {
+      "id": "b2",
+      "img": "/assets/img/backgrounds/commercial-bg.jpg",
+      "color": "#fff",
+      "heading": "Commercial Cleaning",
+      "motive": {
+        "m1": "We maintain your",
+        "m2": "office in perfect state"
+      },
+      "title": {
+        "t1": "Experienced, professional commercial cleaners specialising in offices. ",
+        "t2": "Our team will leave a clean and organised environment, perfect for your workflow. "
+      },
+      "link": "/services/commercial"
+    },
+    {
+      "id": "b3",
+      "img": "/assets/img/backgrounds/construction-bg.png",
+      "color": "#fff",
+      "heading": "Construction Cleaning",
+      "motive": {
+        "m1": "We make your",
+        "m2": "house ready for you to move in"
+      },
+      "title": {
+        "t1": "Experienced, professional commercial cleaners specialising in offices. ",
+        "t2": "Our team will leave a clean and organised environment, perfect for your workflow. "
+      },
+      "link": "/services/construction"
+    },
+    {
+      "id": "b4",
+      "img": "/assets/img/backgrounds/premium-bg.jpg",
+      "heading": "premium Cleaning",
+      "color": "#fff",
+      "motive": {
+        "m1": "We give a more",
+        "m2": "detailed clean to your house"
+      },
+      "title": {
+        "t1": "Experienced, professional commercial cleaners specialising in offices. ",
+        "t2": "Our team will leave a clean and organised environment, perfect for your workflow. "
+      },
+      "link": "/services/premium"
+    },
+    {
+      "id": "b5",
+      "img": "/assets/img/backgrounds/endoflease-bg.png",
+      "color": "#fff",
+      "heading": "End of Lease Cleaning",
+      "motive": {
+        "m1": "We make sure that",
+        "m2": "you will be satisfied!"
+      },
+      "title": {
+        "t1": "Experienced, professional commercial cleaners specialising in offices. ",
+        "t2": "Our team will leave a clean and organised environment, perfect for your workflow. "
+      },
+      "link": "/services/endoflease"
+    },
+    {
+      "id": "b6",
+      "img": "/assets/img/backgrounds/spring-bg.png",
+      "color": "#fff",
+      "heading": "Spring Cleaning",
+      "motive": {
+        "m1": "We give a more",
+        "m2": "detailed clean to your house"
+      },
+      "title": {
+        "t1": "Experienced, professional commercial cleaners specialising in offices. ",
+        "t2": "Our team will leave a clean and organised environment, perfect for your workflow. "
+      },
+      "link": "/services/spring"
+    }
+  ]
+}

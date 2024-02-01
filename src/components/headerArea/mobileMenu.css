@@ -1,0 +1,119 @@
+.mobile-nav {
+  display: none;
+  opacity: 0;
+  position: absolute;
+  top: 16px;
+  left: 0;
+  width: 100%;
+  height: 0;
+  background-color: #fff;
+  font-family: "Outfit", sans-serif;
+  z-index: 999;
+  padding: 10px 16px;
+  margin-top: 0;
+  transform: translateY(-5%);
+  transition: 0.3s height ease-in-out, 0.3s transform ease-in-out,
+    0.3s opacity ease-in-out;
+  color: #808080;
+}
+
+@media only screen and (max-width: 990px) {
+  .prev-nav {
+    display: none;
+    opacity: 0;
+  }
+
+  .mobile-nav {
+    display: block;
+    height: 0;
+    overflow-y: scroll;
+    font-weight: 600;
+    transform: translateY(-5%);
+    transition: 0.3s height ease-in-out, 0.3s transform ease-in-out,
+      0.3s opacity ease-in-out;
+  }
+  .mobile-nav.active {
+    height: 450px !important;
+    opacity: 1 !important;
+    transform: translateY(0);
+    transition: 0.3s all linear;
+  }
+  .mobile-nav > ul {
+    display: flex;
+    flex-direction: column;
+  }
+  .mobile-nav ul li.nav-item {
+    height: auto;
+    transition: 0.3s all ease-out;
+  }
+  .mobile-nav ul li .link-item {
+    width: 100%;
+    border-bottom: 1px solid #23285b;
+  }
+  .mobile-nav ul li .mobile-nav-link {
+    padding: 15px;
+    font-size: 15px;
+    color: #808080 !important;
+  }
+  .mobile-nav ul li .mobile-nav-link:hover {
+    color: #4eb39a !important;
+  }
+  .mobile-nav ul li .mobile-nav-link.active {
+    color: #4eb39a !important;
+  }
+  .nav-item .mobile-sub-menu {
+    width: 100%;
+    display: block;
+    height: 0;
+    opacity: 0;
+    box-shadow: none;
+    text-align: left;
+    transform: translateY(-5%);
+    transition: 0.2s all ease-in;
+  }
+  .nav-item .mobile-sub-menu.active {
+    height: 100%;
+    opacity: 1;
+    transform: translateY(0);
+    transition: 0.3s all ease-out;
+  }
+
+  .mobile-nav ul li .mobile-sub-menu li {
+    height: 0;
+    width: 100%;
+    margin-left: 15px;
+    border-bottom: 1px solid #4eb39a;
+    transition: 0.3s all ease;
+  }
+  .mobile-nav ul li .mobile-sub-menu.active li {
+    height: 100%;
+    transition: 0.3s all ease;
+  }
+  .mobile-nav ul li .mobile-sub-menu li a {
+    font-size: 14px;
+    width: 100%;
+    padding: 12px;
+    padding-left: 30px;
+    transition: 0.3s;
+    color: #808080;
+  }
+  .mobile-nav ul li .mobile-sub-menu li:hover a {
+    color: #4eb39a;
+  }
+  .mobile-sub-nav-toggler {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px 14px;
+    font-size: 16px;
+    background: none;
+    border: 0;
+    color: #fff;
+  }
+}
+@media only screen and (max-width: 765px) {
+  .mobile-nav {
+    max-height: 220px;
+  }
+}

@@ -1,0 +1,85 @@
+.list-details {
+  margin-top: 10px;
+}
+.title-details {
+  display: flex;
+}
+
+.list-details i {
+  color: #4eb39a;
+  margin-right: 5px;
+}
+
+.list-details li {
+  list-style: none;
+  display: block;
+  margin-left: 25px;
+}
+
+.details-options {
+  margin: 15px 0;
+}
+
+.details-options span {
+  text-decoration: underline;
+  color: #4eb39a;
+}
+
+.modal-content {
+  background-color: #e0f1ed;
+}
+
+.modal-content .h4 {
+  width: 100%;
+  position: relative;
+  font-family: "crushed", san-sarif;
+  font-weight: 400;
+  margin: auto;
+  text-align: center;
+  color: #4eb39a;
+}
+
+.modal-content label {
+  font-family: "aileron", san-sarif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #808080;
+}
+
+.modal-content input,
+select {
+  border-radius: 0;
+  margin-bottom: 20px;
+  border: none;
+  background: #fff;
+  padding: 15px 20px;
+  color: #808080;
+}
+
+.modal-content p {
+  font-family: "Outfit", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  position: relative;
+  color: #808080;
+  margin-top: 45px;
+}
+
+.modal-content b {
+  font-family: "crushed", san-sarif;
+  color: #4eb39a;
+  font-size: 20px;
+}
+
+.modal-content span {
+  font-family: "Outfit", sans-serif;
+  font-size: 12px;
+  color: red;
+  margin-top: 0;
+}
+
+.modal-content button {
+  margin-top: 15px;
+}

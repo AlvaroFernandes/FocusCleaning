@@ -1,0 +1,365 @@
+{
+  "basic": {
+    "title": "Basic Cleaning",
+    "img": "/assets/img/service/basic/photo1.jpeg",
+    "price": 0,
+    "intro": [
+      "When you book our apartment or house cleaning services in Sydney, our system takes into account the overall size of your property to ensure our cleaners can provide a thorough and comprehensive clean.",
+      "We determine the size of your home based on the number of bedrooms and bathrooms. Additionally, you have the option to add any optional extras to customise your service according to your specific needs."
+    ],
+    "subtitle": "Our general basic cleaning services include:",
+    "services": [
+      {
+        "title": "Bedrooms & Living Areas:",
+        "icon": "fa fa-couch",
+        "details": [
+          "Straighten the beds;",
+          "Dust and wipe down furniture;",
+          "Dust and dry wipe electronics;",
+          "Clean the floors"
+        ]
+      },
+      {
+        "title": "Kitchen:",
+        "icon": "fa fa-sink",
+        "details": [
+          "Cleaning the exterior of the stove and oven;",
+          "Sanitising the splash-back and bench-top;",
+          "Turning on the dishwasher;",
+          "Cleaning sinks and taps;",
+          "Wiping down cabinet and appliance exteriors;",
+          "Cleaning the microwave;",
+          "Mopping the floor."
+        ]
+      },
+      {
+        "title": "Bathroom:",
+        "icon": "fa fa-bath",
+        "details": [
+          "Clean and sanitise the bathtub and recess;",
+          "Scrub and sanitise toilets;",
+          "Polish sinks and taps;",
+          "Clean mirrors and cabinet exteriors;",
+          "Mop and sanitise."
+        ]
+      }
+    ],
+    "options": "Change sheets and towels and put them in the laundry. Consult us for more information."
+  },
+  "commercial": {
+    "title": "Commercial Cleaning",
+    "img": "/assets/img/service/commercial/photo1.jpeg",
+    "price": 70,
+    "intro": [
+      "If your company values ​​maintaining a good image for its customers and recognises the benefits of a good working environment for its employees, Focus Cleaning – Office Cleaning service is the ideal service for you.",
+      "For us the details are the difference to do well.",
+      "The cleaning methodology, the training of the staff and the quality of the products and equipment used allows us to achieve higher results than the competition and usually in less time.",
+      "In addition to cleaning, if desired, Focus Office Cleaning service can take care of the various logistical aspects of maintaining your office, such as the supply and replacement of consumables.",
+      "Ask us for a free quote and get to know in depth the Office Cleaning service we offer."
+    ],
+    "subtitle": "Our general commercial cleaning services include:",
+    "services": [
+      {
+        "title": "General Areas:",
+        "icon": "fa fa-door-open",
+        "details": [
+          "Empty trash cans and replace lines;",
+          "Dust and wipe surfaces;",
+          "Vacuum or sweep and mop the floors;",
+          "Clean glass surfaces."
+        ]
+      },
+      {
+        "title": "Restrooms:",
+        "icon": "fa fa-restroom",
+        "details": [
+          "Clean and disinfect toilets, sinks, and counters;",
+          "Refill soap, hand towels, and toilet paper;",
+          "Empty and sanitise bins;",
+          "Clean the mirror;",
+          "Sweep or vacuum and mop floors."
+        ]
+      },
+      {
+        "title": "Kitchen / Break Room:",
+        "icon": "fa fa-sink",
+        "details": [
+          "Wipe surfaces and electronics;",
+          "Vacuum or sweep and mop floors;",
+          "Clean shared equipment."
+        ]
+      },
+      {
+        "title": "Hallways / Common Areas:",
+        "icon": "fa fa-vacuum",
+        "details": [
+          "Vacuum or sweep and mop floors;",
+          "Wipe hadrais and surfaces."
+        ]
+      }
+    ]
+  },
+  "construction": {
+    "title": "Construction Cleaning",
+    "img": "/assets/img/service/construction/photo1.jpeg",
+    "price": 80,
+    "intro": [
+      "After construction of any size it is essential to remove dirt that is on the edges of floors, grouting basement and cement remnants that are scattered throughout the site.",
+      "Focus Cleaning is a company specialised in construction cleaning in Sydney.",
+      " We also include windows cleaning up to 3 levels. Affordable prices and excellent quality."
+    ],
+    "subtitle": "Our general construction cleaning services include:",
+    "services": [
+      {
+        "title": "Entrances & Exits:",
+        "icon": "fa fa-broom-wide",
+        "details": [
+          "Dust exterior lights",
+          "Make sure all lights are working",
+          "Wipe down windows",
+          "Clean doors, door frames, and doorknobs",
+          "Sweep entrance ways"
+        ]
+      },
+      {
+        "title": "Living/Common Areas:",
+        "icon": "fa fa-couch",
+        "details": [
+          "Floors are swept and vacuumed/mopped",
+          "All lights are working and free of dust",
+          "Doorknobs and light switches are clean",
+          "Windows, window sills, and window tracks are cleaned and dusted",
+          "No evidence of paint drops on the floors or scuff marks on the walls",
+          "Doors and doorframes cleaned"
+        ]
+      },
+      {
+        "title": "Kitchen:",
+        "icon": "fa fa-sink",
+        "details": [
+          "Dust all shelves and counters",
+          "Clean inside appliances",
+          "Clean inside cabinets and drawers",
+          "Make sure all cabinet hardware is clean and secure",
+          "Sweep and vacuum/mop floors",
+          "Clean windows, window sills and window tracks",
+          "Clean sink and backsplash",
+          "Wipe down all fixtures and finishes"
+        ]
+      },
+      {
+        "title": "Bathrooms:",
+        "icon": "fa fa-bath",
+        "details": [
+          "Sink, tub, shower are clean and sanitised",
+          "Toilet is sanitised",
+          "Mirrors, cabinets, and counters are wiped down",
+          "Floors are swept and vacuumed/mopped",
+          "Inside cabinets and drawers are cleaned",
+          "Windows, baseboards, light fixtures, doorknobs and doorframes are cleaned"
+        ]
+      },
+      {
+        "title": "Bedrooms:",
+        "icon": "fa fa-bed",
+        "details": [
+          "Cleaning inside closets",
+          "Dusting light fixtures and ceiling fans",
+          "Wiping down baseboards",
+          "Dusting built-in shelving units",
+          "Dusting grates and vents",
+          "Removing paint from hinges"
+        ]
+      }
+    ]
+  },
+  "endoflease": {
+    "title": "End of Lease Cleaning",
+    "img": "/assets/img/service/endoflease/photo1.jpeg",
+    "price": 70,
+    "intro": [
+      "After construction of any size it is essential to remove dirt that is on the edges of floors, grouting basement and cement remnants that are scattered throughout the site.",
+      "Focus Cleaning is a company specialised in construction cleaning in Sydney.",
+      " We also include windows cleaning up to 3 levels. Affordable prices and excellent quality."
+    ],
+    "subtitle": "Our end of lease cleaning services include:",
+    "services": [
+      {
+        "title": "Bedrooms & Living Areas:",
+        "icon": "fa fa-couch",
+        "details": [
+          "Vacuum and mop the floors.",
+          "Clean mirrors and wardrobes.",
+          "Perform spot cleaning on walls",
+          "Remove cobwebs",
+          "Thoroughly clean, dust, and wash the interior of the windows, windowsills, and ledges",
+          "Clean the insides of cupboards and built-in wardrobes",
+          "Conduct spot cleaning on walls, doors, and light switches to remove finger marks and scuff marks"
+        ]
+      },
+      {
+        "title": "Kitchen:",
+        "icon": "fa fa-sink",
+        "details": [
+          "Windowsills + Tracks;",
+          "Skirting Boards + Kickboard;",
+          "Stove Top + Oven;",
+          "Rangehood and Vents;",
+          "Splashback;",
+          "Benches + Cabinet Doors;",
+          "Inside Cupboards + Drawers;",
+          "Clean Inside Cupboards;",
+          "Dishwasher (internal + externa);",
+          "Door Knobs + Light Switches;",
+          "Door Frames + Doors;",
+          "Light Fittings + Fans;",
+          "Blinds;",
+          "Walls;",
+          "Vacuum + Mop Floors."
+        ]
+      },
+      {
+        "title": "Bathroom:",
+        "icon": "fa fa-bath",
+        "details": [
+          "Bath cleaned;",
+          "Shower fittings;",
+          "Toilets scrubbed & disinfected;",
+          "Floors vacuumed & mopped;",
+          "Door Frames & Tiles;",
+          "Exhaust Fans;",
+          "Mirrors Cleaned."
+        ]
+      },
+      {
+        "title": "Laundry:",
+        "icon": "fa fa-washing-machine",
+        "details": [
+          "Sink, tub, shower are clean and sanitised",
+          "Toilet is sanitised",
+          "Mirrors, cabinets, and counters are wiped down",
+          "Floors are swept and vacuumed/mopped",
+          "Inside cabinets and drawers are cleaned",
+          "Windows, baseboards, light fixtures, doorknobs and doorframes are cleaned"
+        ]
+      },
+      {
+        "title": "Windows and sliding Doors:",
+        "icon": "fa fa-window-frame-open",
+        "details": [
+          "Clean the interiors of glass surfaces and mirrors;",
+          "Clean both sides of sliding glass doors, including tracks and frames;",
+          "Damp wipe the window sills;",
+          "Remove any cobwebs."
+        ]
+      },
+      {
+        "title": "Balcony:",
+        "icon": "fa fa-bench-tree",
+        "details": [
+          "Vacuum and mop the floors. (Please note that complete stain removal on the balcony floor is not guaranteed, as we will make every effort to remove as much as possible.)",
+          "Remove any cobwebs;",
+          "Perform dry and damp dusting of walls and skirting;",
+          "Remove any cobwebs."
+        ]
+      }
+    ]
+  },
+  "premiun": {
+    "title": "Premiun Cleaning",
+    "img": "/assets/img/service/premiun/photo1.jpeg",
+    "price": 65,
+    "intro": [
+      "After construction of any size it is essential to remove dirt that is on the edges of floors, grouting basement and cement remnants that are scattered throughout the site.",
+      "Focus Cleaning is a company specialised in construction cleaning in Sydney.",
+      " We also include windows cleaning up to 3 levels. Affordable prices and excellent quality."
+    ],
+    "subtitle": "Our premiun cleaning services include:",
+    "services": [
+      {
+        "title": "Bedrooms & Living Areas:",
+        "icon": "fa fa-couch",
+        "details": [
+          "Dusting of chairs;",
+          "Dusting of products;",
+          "Vanity/table organisation;",
+          "Window sills;",
+          "Window tracks;",
+          "Damp wiping of baseboards;",
+          "Door marks;",
+          "Light switch plates;",
+          "Fans;",
+          "Changing of sheets and towels;",
+          "Putting sheets and towels in the laundry."
+        ]
+      },
+      {
+        "title": "Kitchen:",
+        "icon": "fa fa-sink",
+        "details": [
+          "Dusting of top-to-bottom cabinets;",
+          "Washing of all stove accessories;",
+          "Emptying the dishwasher;",
+          "Washing of trash bins."
+        ]
+      },
+      {
+        "title": "Bathroom:",
+        "icon": "fa fa-bath",
+        "details": ["Full washing, including walls;", "Dusting of products."]
+      }
+    ]
+  },
+  "spring": {
+    "title": "Spring Cleaning",
+    "img": "/assets/img/service/spring/photo1.jpeg",
+    "price": 65,
+    "intro": [
+      "After construction of any size it is essential to remove dirt that is on the edges of floors, grouting basement and cement remnants that are scattered throughout the site.",
+      "Focus Cleaning is a company specialised in construction cleaning in Sydney.",
+      " We also include windows cleaning up to 3 levels. Affordable prices and excellent quality."
+    ],
+    "subtitle": "Our spring cleaning services include:",
+    "services": [
+      {
+        "title": "Bedrooms & Living Areas:",
+        "icon": "fa fa-couch",
+        "details": [
+          "Floors mopped and vacuumed;",
+          "Skirting boards wiped & cleaned",
+          "Mirrors and glass tables cleaned",
+          "Cobwebs and fingerprints;",
+          "Mirrors & Glass;",
+          "Window sills."
+        ]
+      },
+      {
+        "title": "Kitchen:",
+        "icon": "fa fa-sink",
+        "details": [
+          "Stove tops and range hoods;",
+          "Cupboard fronts;",
+          "Inside oven on request;",
+          "Inside refrigerator;",
+          "Inside cabinets when required;",
+          "Benchtops and splashbacks;",
+          "Floors mopped and vacuumed;",
+          "Clean the microwave."
+        ]
+      },
+      {
+        "title": "Bathroom:",
+        "icon": "fa fa-bath",
+        "details": [
+          "Bath cleaned;",
+          "Shower fittings;",
+          "Toilets scrubbed & disinfected;",
+          "Floors vacuumed & mopped;",
+          "Door Frames & Tiles;",
+          "Exhaust Fans;",
+          "Mirrors Cleaned."
+        ]
+      }
+    ]
+  }
+}
