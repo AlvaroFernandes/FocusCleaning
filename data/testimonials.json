@@ -2,28 +2,28 @@
   "testimonials": [
     {
       "id": "t1",
-      "img": "/assets/img/testimonial/1.jpg",
+      "img": "/focuscleaning/assets/img/testimonial/1.jpg",
       "comment": "The magic formula that successful businesses have discovered is to treat customers ",
       "name": "Albert Krish",
       "rank": "Social Activist"
     },
     {
       "id": "t2",
-      "img": "/assets/img/testimonial/2.jpg",
+      "img": "/focuscleaning/assets/img/testimonial/2.jpg",
       "comment": "The magic formula that successful businesses have discovered is to treat customers ",
       "name": "Bill Lorris",
       "rank": "Business Man"
     },
     {
       "id": "t3",
-      "img": "/assets/img/testimonial/3.jpg",
+      "img": "/focuscleaning/assets/img/testimonial/3.jpg",
       "comment": "The magic formula that successful businesses have discovered is to treat customers ",
       "name": "Josh Batlar",
       "rank": "Factory Foreman"
     },
     {
       "id": "t4",
-      "img": "/assets/img/testimonial/4.jpg",
+      "img": "/focuscleaning/assets/img/testimonial/4.jpg",
       "comment": "The magic formula that successful businesses have discovered is to treat customers ",
       "name": "Joe Root",
       "rank": "Industry Supervisor"

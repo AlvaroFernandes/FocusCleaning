@@ -5,42 +5,42 @@
       "icon": "fa fa-house",
       "heading": "Basic Cleaning",
       "title": "Focus Cleaning Sydney is a professional and affordable home cleaning company based in Sydney’s Northern Beaches and North Shore. With our team of amazing and well-trained cleaners, rest assured that no details will be ignored. Don’t waste any more of your precious time cleaning – let us do the hard work for you!",
-      "link": "/services/basic"
+      "link": "/focuscleaning/services/basic"
     },
     {
       "id": "s2",
       "icon": "fa fa-building",
       "heading": "Commercial Cleaning",
       "title": "Experienced, professional commercial cleaners specialising in offices. Our team will leave a clean and organised environment, perfect for your workflow. So you can get back to focusing on your business and leave us to providing a superior level of service with our commercial cleaning.",
-      "link": "/services/commercial"
+      "link": "/focuscleaning/services/commercial"
     },
     {
       "id": "s3",
       "icon": "fa fa-helmet-safety",
       "heading": "Construction Cleaning",
       "title": "There are some reason build erit a augue insuned image pellen simply freede in the site lorem ipsum dolor",
-      "link": "/services/construction"
+      "link": "/focuscleaning/services/construction"
     },
     {
       "id": "s4",
       "icon": "fa fa-kitchen-set",
       "heading": "Premiun Cleaning",
       "title": "There are some reason build erit a augue insuned image pellen simply freede in the site lorem ipsum dolor",
-      "link": "/services/premiun"
+      "link": "/focuscleaning/services/premiun"
     },
     {
       "id": "s5",
       "icon": "fa fa-truck-moving",
       "heading": "End of Lease Cleaning",
       "title": "There are some reason build erit a augue insuned image pellen simply freede in the site lorem ipsum dolor",
-      "link": "/services/endLease"
+      "link": "/focuscleaning/services/endLease"
     },
     {
       "id": "s6",
       "icon": "fa fa-broom",
       "heading": "Spring Cleaning",
       "title": "There are some reason build erit a augue insuned image pellen simply freede in the site lorem ipsum dolor",
-      "link": "/services/sping"
+      "link": "/focuscleaning/services/sping"
     }
   ]
 }
