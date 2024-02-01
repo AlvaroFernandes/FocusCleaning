@@ -774,7 +774,7 @@ input.form-control {
 }
 
 .header-area .is-sticky .navigation {
-  height: 110px;
+  height: auto;
   margin-top: 0;
 }
 
@@ -1674,12 +1674,13 @@ input.form-control {
 }
 
 .header-area .logo {
+  padding: 10px;
   margin: 10px 0;
   position: relative;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header-area .logo {
-    margin-top: 10px;
+    margin: 10px 0;
   }
 }
 @media (max-width: 767px) {
