@@ -13,7 +13,10 @@ const Home = () => {
   const [dataBanner, setDataBanner] = useState({});
   const [dataCards, setDataCards] = useState({});
 
-  const urls = ["/data/banner.json", "/data/cards.json"];
+  const urls = [
+    "/focuscleaning/data/banner.json",
+    "/focuscleaning/data/cards.json"
+  ];
 
   useEffect(() => {
     axios

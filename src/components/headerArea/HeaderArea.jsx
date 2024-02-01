@@ -22,7 +22,7 @@ const HeaderArea = () => {
                 <div className="col-lg-3">
                   <div className="logo">
                     <Link className="navbar-brand" to="/">
-                      <img src="/assets/img/logo.png" alt="Focus Cleaning" />
+                      <img src="/focuscleaning/assets/img/logo.png" alt="" />
                     </Link>
                   </div>
                 </div>
@@ -43,6 +43,7 @@ const HeaderArea = () => {
                         <span className="navbar-toggler-icon"></span>
                         <span className="navbar-toggler-icon"></span>
                       </button>
+
                       <div
                         className="collapse navbar-collapse justify-content-center prev-nav"
                         id="navbarSupportedContent"
@@ -50,37 +51,38 @@ const HeaderArea = () => {
                         <ul className="navbar-nav m-auto">
                           <li className="nav-item">
                             <Link
-                              to="/focuscleaning/"
-                              onMouseOver={() => setActiveMenu("home")}
+                              onMouseEnter={() => setActiveMenu("home")}
                               className={`nav-link ${
                                 activeMenu === "home" ? "active" : ""
                               }`}
+                              to="/focuscleaning/"
                             >
                               Home
                             </Link>
                           </li>
+
                           <li className="nav-item">
                             <Link
-                              to="/focuscleaning/about"
-                              onMouseOver={() => setActiveMenu("about")}
+                              onMouseEnter={() => setActiveMenu("about")}
                               className={`nav-link ${
                                 activeMenu === "about" ? "active" : ""
                               }`}
+                              to="/focuscleaning/about"
                             >
                               About
                             </Link>
                           </li>
                           <li className="nav-item">
-                            <Link
-                              to="/focuscleaning/services"
-                              onMouseOver={() => setActiveMenu("services")}
+                            <a
+                              onMouseEnter={() => setActiveMenu("services")}
                               className={`nav-link ${
                                 activeMenu === "services" ? "active" : ""
                               }`}
+                              to="/focuscleaning/services"
                             >
                               Services
-                              <span className="sub-nav-toggler"></span>
-                            </Link>
+                              <span className="sub-nav-toggler"> </span>
+                            </a>
                             <ul className="sub-menu">
                               <li>
                                 <Link to="/focuscleaning/services/basic">
@@ -98,13 +100,8 @@ const HeaderArea = () => {
                                 </Link>
                               </li>
                               <li>
-                                <Link to="/focuscleaning/services/premiun">
-                                  Premiun Cleaning
-                                </Link>
-                              </li>
-                              <li>
-                                <Link to="/focuscleaning/services/endoflease">
-                                  End of Lease Cleaning
+                                <Link to="/focuscleaning/services/premium">
+                                  Premium Cleaning
                                 </Link>
                               </li>
                               <li>
@@ -112,15 +109,21 @@ const HeaderArea = () => {
                                   Spring Cleaning
                                 </Link>
                               </li>
+                              <li>
+                                <Link to="/focuscleaning/services/endoflease">
+                                  End of Lease Cleaning
+                                </Link>
+                              </li>
                             </ul>
                           </li>
-                          <li className="nav-item">
+
+                          <li className="nav-item smooth-menu">
                             <Link
-                              onMouseOver={() => setActiveMenu("contact")}
+                              to="/contact"
+                              onMouseEnter={() => setActiveMenu("contact")}
                               className={`nav-link ${
                                 activeMenu === "contact" ? "active" : ""
                               }`}
-                              to="/focuscleaning/contact"
                             >
                               Contact
                             </Link>

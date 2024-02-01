@@ -8,7 +8,10 @@ const Footer = () => {
           <div className="row">
             <div className="col-lg-4 col-md-6 col-sm-12">
               <a href="/" className="logo">
-                <img src="/assets/img/logo.png" alt="focuscleaning-logo" />
+                <img
+                  src="/focuscleaning/assets/img/logo.png"
+                  alt="focuscleaning-logo"
+                />
               </a>
             </div>
             <div className="col-lg-2 col-md-6">
@@ -26,9 +29,9 @@ const Footer = () => {
               <h5>Links</h5>
               <ul>
                 <li>
-                  <Link to="/about">About</Link>
-                  <Link to="/services">Services</Link>
-                  <Link to="/contact">Contact</Link>
+                  <Link to="/focuscleaning/about">About</Link>
+                  <Link to="/focuscleaning/services">Services</Link>
+                  <Link to="/focuscleaning/contact">Contact</Link>
                 </li>
               </ul>
             </div>
