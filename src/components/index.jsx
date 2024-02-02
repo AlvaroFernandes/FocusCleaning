@@ -15,3 +15,4 @@ export { default as ServiceDetails } from "./services/ServiceDetails";
 export { default as Testimonial } from "./testimonial/Testimonial";
 export { default as ContactSection } from "./contact/ContactSection";
 export { default as Gallery } from "./gallery/Gallery";
+export { default as Icon } from "./Icon";

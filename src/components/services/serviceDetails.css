@@ -3,11 +3,16 @@
 }
 .title-details {
   display: flex;
+  margin-bottom: 10px;
 }
 
-.list-details i {
-  color: #4eb39a;
+.list-details svg {
   margin-right: 5px;
+}
+
+.list-details h5 {
+  display: flex;
+  align-items: flex-end;
 }
 
 .list-details li {

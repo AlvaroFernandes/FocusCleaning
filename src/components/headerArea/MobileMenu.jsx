@@ -37,11 +37,6 @@ const data = [
         link: "focuscleaning/services/construction"
       },
       {
-        id: "c4",
-        text: "Premiun Cleaning",
-        link: "/focuscleaning/services/premiun"
-      },
-      {
         id: "c5",
         text: "End of Lease Cleaning",
         link: "/focuscleaning/services/endoflease"

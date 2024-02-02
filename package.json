@@ -11,13 +11,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-email/components": "^0.0.14",
     "axios": "^1.6.7",
+    "lucide-react": "^0.321.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.49.3",
     "react-photo-album": "^2.3.1",
     "react-router-dom": "^6.21.3",
+    "resend": "^3.1.0",
     "swiper": "^11.0.5",
     "yet-another-react-lightbox": "^3.16.0"
   },

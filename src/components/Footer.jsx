@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import Icon from "./Icon";
 
 const Footer = () => {
   return (
@@ -44,13 +45,13 @@ const Footer = () => {
                       href="https://www.facebook.com/focuscleaningsydney.com.au/"
                       target="_blank"
                     >
-                      <i className="footer-icon fa fa-facebook"></i> Facebook
+                      <Icon name="Facebook" size="24" /> Facebook
                     </a>
                     <a
                       href="https://www.instagram.com/focus_cleaning/"
                       target="_blank"
                     >
-                      <i className="footer-icon fa fa-instagram"></i> Instagram
+                      <Icon name="Instagram" size="24" /> Instagram
                     </a>
                   </div>
                 </li>

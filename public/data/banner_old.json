@@ -46,6 +46,21 @@
       "link": "/focuscleaning/services/construction"
     },
     {
+      "id": "b4",
+      "img": "/focuscleaning/assets/img/backgrounds/premium-bg.jpg",
+      "heading": "premium Cleaning",
+      "color": "#fff",
+      "motive": {
+        "m1": "We give a more",
+        "m2": "detailed clean to your house"
+      },
+      "title": {
+        "t1": "Experienced, professional commercial cleaners specialising in offices. ",
+        "t2": "Our team will leave a clean and organised environment, perfect for your workflow. "
+      },
+      "link": "/focuscleaning/services/premium"
+    },
+    {
       "id": "b5",
       "img": "/focuscleaning/assets/img/backgrounds/endoflease-bg.png",
       "color": "#fff",

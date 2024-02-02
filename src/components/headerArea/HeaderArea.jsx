@@ -73,7 +73,7 @@ const HeaderArea = () => {
                             </Link>
                           </li>
                           <li className="nav-item">
-                            <a
+                            <Link
                               onMouseEnter={() => setActiveMenu("services")}
                               className={`nav-link ${
                                 activeMenu === "services" ? "active" : ""
@@ -82,7 +82,7 @@ const HeaderArea = () => {
                             >
                               Services
                               <span className="sub-nav-toggler"> </span>
-                            </a>
+                            </Link>
                             <ul className="sub-menu">
                               <li>
                                 <Link to="/focuscleaning/services/basic">
@@ -100,11 +100,6 @@ const HeaderArea = () => {
                                 </Link>
                               </li>
                               <li>
-                                <Link to="/focuscleaning/services/premium">
-                                  Premium Cleaning
-                                </Link>
-                              </li>
-                              <li>
                                 <Link to="/focuscleaning/services/spring">
                                   Spring Cleaning
                                 </Link>
@@ -119,7 +114,7 @@ const HeaderArea = () => {
 
                           <li className="nav-item smooth-menu">
                             <Link
-                              to="/contact"
+                              to="/focuscleaning/contact"
                               onMouseEnter={() => setActiveMenu("contact")}
                               className={`nav-link ${
                                 activeMenu === "contact" ? "active" : ""

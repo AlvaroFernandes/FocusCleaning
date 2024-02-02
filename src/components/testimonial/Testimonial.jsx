@@ -2,6 +2,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination } from "swiper/modules";
+import Icon from "../Icon";
 
 const Testimonial = () => {
   const [loading, setLoading] = useState(true);
@@ -66,7 +67,9 @@ const Testimonial = () => {
                           className="single-testimonial-item"
                         >
                           <div className="testimonial-icon">
-                            <i className="las la-quote-left"></i>
+                            <span>
+                              <Icon name="Quote" size="25" color="#FFF" />
+                            </span>
                           </div>
                           <p>"{item.comment}"</p>
                           <div className="author-wrap">

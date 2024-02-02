@@ -1,8 +1,9 @@
 import { useEffect, useRef, useState } from "react";
 import "./serviceDetails.css";
 import { Modal } from "react-bootstrap";
-import ModalFormQuote from "../modal/ModalFormQuote";
-import ModalFormAvailability from "../modal/ModalFormAvailability";
+import ModalFormQuote from "../heroArea/modal/ModalFormQuote";
+import ModalFormAvailability from "../heroArea/modal/ModalFormAvailability";
+import Icon from "../Icon";
 
 const ServiceDetails = ({ data, page }) => {
   const [loading, setLoading] = useState(true);
@@ -130,7 +131,7 @@ const ServiceDetails = ({ data, page }) => {
                     {details.services.map((item, i) => (
                       <div className="list-details" key={i}>
                         <div className="title-details">
-                          <i className={item.icon}></i>
+                          <Icon name={item.icon} size="35" color="#4eb39a" />
                           <h5>{item.title}</h5>
                         </div>
                         <ul className="service-details">

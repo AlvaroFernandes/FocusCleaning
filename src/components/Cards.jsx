@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import Icon from "./Icon";
 
 const Cards = ({ data }) => {
   const cards = data.ServiceCards;
@@ -16,7 +17,7 @@ const Cards = ({ data }) => {
                     }`}
                   >
                     <div className="promo-icon">
-                      <i className="fa fa-house"></i>
+                      <Icon name={item.icon} size="50" />
                     </div>
                     <h5>{item.heading}</h5>
                     <p>{item.title}</p>

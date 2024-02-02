@@ -2,6 +2,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination } from "swiper/modules";
 
 import { Link } from "react-router-dom";
+import Icon from "../Icon";
 
 const ServicesInfo = ({ data }) => {
   const services = data.Services;
@@ -25,10 +26,10 @@ const ServicesInfo = ({ data }) => {
           </div>
           <div className="slide__navigation position-relative">
             <button className="slide__button-prev">
-              <i className="las la-arrow-left"></i>
+              <Icon name="ArrowLeft" size="30" />
             </button>
             <button className="slide__button-next">
-              <i className="las la-arrow-right"></i>
+              <Icon name="ArrowRight" size="30" />
             </button>
           </div>
           <div className="row">
@@ -61,7 +62,7 @@ const ServicesInfo = ({ data }) => {
                   <SwiperSlide key={service.id} className="single-service-item">
                     <div className="service-icon">
                       <span>
-                        <i className={service.icon}> </i>
+                        <Icon name={service.icon} size={50} color="#4eb39a" />
                       </span>
                     </div>
                     <div className="service-title">
@@ -69,7 +70,7 @@ const ServicesInfo = ({ data }) => {
                     </div>
                     <p>{service.title.substring(0, 50) + "..."}</p>
                     <Link to={service.link} className="service-link">
-                      <i className="las la-long-arrow-alt-right"></i>
+                      <Icon name="ArrowRight" />
                     </Link>
                   </SwiperSlide>
                 ))}

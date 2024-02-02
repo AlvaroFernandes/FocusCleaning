@@ -2152,8 +2152,11 @@ input.form-control {
   color: #fff;
 }
 .single-promo-item .promo-icon {
-  font-size: 50px;
   color: #4eb39a;
+}
+
+.promo-icon .icon-hero {
+  height: 50px;
 }
 .single-promo-item:hover .promo-icon {
   color: #fff;
@@ -2904,15 +2907,16 @@ a.project-icon {
   margin-bottom: 50px;
   font-size: 17px;
 }
-
-.testimonial-icon i {
-  font-size: 25px;
+.testimonial-icon span {
   background: #4eb39a;
-  padding: 15px;
-  position: absolute;
-  top: -20px;
+  height: 30px;
+  width: 30px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.testimonial-icon svg {
   color: #fff;
-  z-index: 9;
 }
 .testimonial-area .swiper-pagination {
   position: relative;
@@ -3599,6 +3603,10 @@ a.reply-btn {
   color: #9ba2ad;
   padding: 10px 0;
   position: relative;
+}
+
+.footer-area ul li a:hover {
+  color: #4eb39a;
 }
 @media (max-width: 767px) {
   .footer-area ul li a {

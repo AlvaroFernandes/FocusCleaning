@@ -13,7 +13,7 @@
     "services": [
       {
         "title": "Bedrooms & Living Areas:",
-        "icon": "Sofa",
+        "icon": "fa fa-couch",
         "details": [
           "Straighten the beds;",
           "Dust and wipe down furniture;",
@@ -23,7 +23,7 @@
       },
       {
         "title": "Kitchen:",
-        "icon": "Refrigerator",
+        "icon": "fa fa-sink",
         "details": [
           "Cleaning the exterior of the stove and oven;",
           "Sanitising the splash-back and bench-top;",
@@ -36,7 +36,7 @@
       },
       {
         "title": "Bathroom:",
-        "icon": "Bath",
+        "icon": "fa fa-bath",
         "details": [
           "Clean and sanitise the bathtub and recess;",
           "Scrub and sanitise toilets;",
@@ -63,7 +63,7 @@
     "services": [
       {
         "title": "General Areas:",
-        "icon": "DoorOpen",
+        "icon": "fa fa-door-open",
         "details": [
           "Empty trash cans and replace lines;",
           "Dust and wipe surfaces;",
@@ -73,7 +73,7 @@
       },
       {
         "title": "Restrooms:",
-        "icon": "ShowerHead",
+        "icon": "fa fa-restroom",
         "details": [
           "Clean and disinfect toilets, sinks, and counters;",
           "Refill soap, hand towels, and toilet paper;",
@@ -84,7 +84,7 @@
       },
       {
         "title": "Kitchen / Break Room:",
-        "icon": "Refrigerator",
+        "icon": "fa fa-sink",
         "details": [
           "Wipe surfaces and electronics;",
           "Vacuum or sweep and mop floors;",
@@ -93,7 +93,7 @@
       },
       {
         "title": "Hallways / Common Areas:",
-        "icon": "DoorOpen",
+        "icon": "fa fa-vacuum",
         "details": [
           "Vacuum or sweep and mop floors;",
           "Wipe hadrais and surfaces."
@@ -114,7 +114,7 @@
     "services": [
       {
         "title": "Entrances & Exits:",
-        "icon": "DoorOpen",
+        "icon": "fa fa-broom-wide",
         "details": [
           "Dust exterior lights",
           "Make sure all lights are working",
@@ -125,7 +125,7 @@
       },
       {
         "title": "Living/Common Areas:",
-        "icon": "Sofa",
+        "icon": "fa fa-couch",
         "details": [
           "Floors are swept and vacuumed/mopped",
           "All lights are working and free of dust",
@@ -137,7 +137,7 @@
       },
       {
         "title": "Kitchen:",
-        "icon": "Refrigerator",
+        "icon": "fa fa-sink",
         "details": [
           "Dust all shelves and counters",
           "Clean inside appliances",
@@ -151,7 +151,7 @@
       },
       {
         "title": "Bathrooms:",
-        "icon": "Bath",
+        "icon": "fa fa-bath",
         "details": [
           "Sink, tub, shower are clean and sanitised",
           "Toilet is sanitised",
@@ -163,7 +163,7 @@
       },
       {
         "title": "Bedrooms:",
-        "icon": "BedDouble",
+        "icon": "fa fa-bed",
         "details": [
           "Cleaning inside closets",
           "Dusting light fixtures and ceiling fans",
@@ -188,7 +188,7 @@
     "services": [
       {
         "title": "Bedrooms & Living Areas:",
-        "icon": "Sofa",
+        "icon": "fa fa-couch",
         "details": [
           "Vacuum and mop the floors.",
           "Clean mirrors and wardrobes.",
@@ -201,7 +201,7 @@
       },
       {
         "title": "Kitchen:",
-        "icon": "Refrigerator",
+        "icon": "fa fa-sink",
         "details": [
           "Windowsills + Tracks;",
           "Skirting Boards + Kickboard;",
@@ -222,7 +222,7 @@
       },
       {
         "title": "Bathroom:",
-        "icon": "Bath",
+        "icon": "fa fa-bath",
         "details": [
           "Bath cleaned;",
           "Shower fittings;",
@@ -235,7 +235,7 @@
       },
       {
         "title": "Laundry:",
-        "icon": "WashingMachine",
+        "icon": "fa fa-washing-machine",
         "details": [
           "Sink, tub, shower are clean and sanitised",
           "Toilet is sanitised",
@@ -247,7 +247,7 @@
       },
       {
         "title": "Windows and sliding Doors:",
-        "icon": "Blinds",
+        "icon": "fa fa-window-frame-open",
         "details": [
           "Clean the interiors of glass surfaces and mirrors;",
           "Clean both sides of sliding glass doors, including tracks and frames;",
@@ -257,13 +257,58 @@
       },
       {
         "title": "Balcony:",
-        "icon": "Tent",
+        "icon": "fa fa-bench-tree",
         "details": [
           "Vacuum and mop the floors. (Please note that complete stain removal on the balcony floor is not guaranteed, as we will make every effort to remove as much as possible.)",
           "Remove any cobwebs;",
           "Perform dry and damp dusting of walls and skirting;",
           "Remove any cobwebs."
         ]
+      }
+    ]
+  },
+  "premiun": {
+    "title": "Premiun Cleaning",
+    "img": "/focuscleaning/assets/img/service/premiun/photo1.jpeg",
+    "price": 65,
+    "intro": [
+      "After construction of any size it is essential to remove dirt that is on the edges of floors, grouting basement and cement remnants that are scattered throughout the site.",
+      "Focus Cleaning is a company specialised in construction cleaning in Sydney.",
+      " We also include windows cleaning up to 3 levels. Affordable prices and excellent quality."
+    ],
+    "subtitle": "Our premiun cleaning services include:",
+    "services": [
+      {
+        "title": "Bedrooms & Living Areas:",
+        "icon": "fa fa-couch",
+        "details": [
+          "Dusting of chairs;",
+          "Dusting of products;",
+          "Vanity/table organisation;",
+          "Window sills;",
+          "Window tracks;",
+          "Damp wiping of baseboards;",
+          "Door marks;",
+          "Light switch plates;",
+          "Fans;",
+          "Changing of sheets and towels;",
+          "Putting sheets and towels in the laundry."
+        ]
+      },
+      {
+        "title": "Kitchen:",
+        "icon": "fa fa-sink",
+        "details": [
+          "Dusting of top-to-bottom cabinets;",
+          "Washing of all stove accessories;",
+          "Emptying the dishwasher;",
+          "Washing of trash bins."
+        ]
+      },
+      {
+        "title": "Bathroom:",
+        "icon": "fa fa-bath",
+        "details": ["Full washing, including walls;", "Dusting of products."]
       }
     ]
   },
@@ -280,7 +325,7 @@
     "services": [
       {
         "title": "Bedrooms & Living Areas:",
-        "icon": "Sofa",
+        "icon": "fa fa-couch",
         "details": [
           "Floors mopped and vacuumed;",
           "Skirting boards wiped & cleaned",
@@ -292,7 +337,7 @@
       },
       {
         "title": "Kitchen:",
-        "icon": "Refrigerator",
+        "icon": "fa fa-sink",
         "details": [
           "Stove tops and range hoods;",
           "Cupboard fronts;",
@@ -306,7 +351,7 @@
       },
       {
         "title": "Bathroom:",
-        "icon": "Bath",
+        "icon": "fa fa-bath",
         "details": [
           "Bath cleaned;",
           "Shower fittings;",

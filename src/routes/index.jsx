@@ -43,11 +43,11 @@ export const router = createBrowserRouter([
         element: <InternalPage page="construction" />,
         errorElement: <ErrorPage />
       },
-      {
-        path: "/focuscleaning/services/premiun",
-        element: <InternalPage page="premiun" />,
-        errorElement: <ErrorPage />
-      },
+      // {
+      //   path: "/focuscleaning/services/premiun",
+      //   element: <InternalPage page="premiun" />,
+      //   errorElement: <ErrorPage />
+      // },
       {
         path: "/focuscleaning/services/endoflease",
         element: <InternalPage page="endoflease" />,
