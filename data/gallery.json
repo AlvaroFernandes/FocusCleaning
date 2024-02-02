@@ -50,22 +50,12 @@
   ],
   "construction": [
     {
-      "src": "/focuscleaning/assets/img/photos/construction/photo1.png",
-      "width": 1748,
-      "height": 1240
-    },
-    {
       "src": "/focuscleaning/assets/img/photos/construction/photo2.png",
       "width": 1748,
       "height": 1240
     },
     {
       "src": "/focuscleaning/assets/img/photos/construction/photo3.png",
-      "width": 1748,
-      "height": 1240
-    },
-    {
-      "src": "/focuscleaning/assets/img/photos/construction/photo4.png",
       "width": 1748,
       "height": 1240
     },

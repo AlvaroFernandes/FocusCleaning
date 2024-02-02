@@ -3,14 +3,14 @@
     {
       "id": "p1",
       "heading": "Residencial Solution",
-      "title": "Industry is main lorem ipsum dolor amet, consectetur adipisicing elit.",
+      "title": "Book our cleaning for a thorough job, tailored to your property size.",
       "icon": "fa fa-house",
       "link": "/focuscleaning/services/basic"
     },
     {
       "id": "p2",
       "heading": "Commercial Solutions",
-      "title": "Industry is main lorem ipsum dolor amet, consectetur adipisicing elit.",
+      "title": "Office cleaning rates are determined per hour, ensuring flexibility and cost-effectiveness for your specific needs.",
       "icon": "fa-solid fa-building",
       "link": "/focuscleaning/services/commercial"
     },
