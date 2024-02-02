@@ -592,6 +592,7 @@ hr {
   -webkit-transition: 0.3s;
   transition: 0.3s;
   border: none;
+  position: relative;
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .main-btn,
@@ -4424,6 +4425,11 @@ ul.partner-social li a {
 
 .modal-form {
   height: 70%;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: #4eb39a !important;
 }
 /*
  

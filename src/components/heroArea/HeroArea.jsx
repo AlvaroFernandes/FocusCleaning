@@ -1,6 +1,8 @@
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Autoplay } from "swiper/modules";
+import { Autoplay, Navigation, Pagination } from "swiper/modules";
 import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
 import { Link } from "react-router-dom";
 
 const HeroArea = ({ type, data }) => {
@@ -9,10 +11,12 @@ const HeroArea = ({ type, data }) => {
     <>
       {banner.length > 0 && (
         <Swiper
-          modules={[Autoplay]}
+          modules={[Pagination, Navigation]}
           slidesPerView={1}
           loop={true}
           speed={5000}
+          navigation
+          pagination={{ clickable: true }}
           autoplay={{ delay: 5000, disableOnInteraction: false }}
           id="home"
           className="homepage-slides"
@@ -22,9 +26,7 @@ const HeroArea = ({ type, data }) => {
               <div
                 className="image-layer"
                 style={{ backgroundImage: `url(${item.img})` }}
-              >
-                <div className="overlay"></div>
-              </div>
+              ></div>
               <div className="hero-area-content">
                 <div className="container">
                   <div className="row justify-content-center">
@@ -46,7 +48,7 @@ const HeroArea = ({ type, data }) => {
                         </p>
                       </div>
                       <Link className="main-btn" to={item.link}>
-                        Learn More
+                        Learn More...
                       </Link>
                     </div>
                   </div>
