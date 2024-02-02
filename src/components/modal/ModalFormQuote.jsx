@@ -64,17 +64,17 @@ const ModalFormQuote = () => {
     } else if (bed === "2" && bath === "1") {
       return "151.25";
     } else if (bed === "2" && bath === "2") {
-      return "181.50";
+      return "165.00";
     } else if (bed === "3" && bath === "1") {
       return "181.50";
     } else if (bed === "3" && bath === "2") {
-      return "211.75";
+      return "192.50";
     } else if (bed === "4" && bath === "2") {
-      return "211.75";
+      return "220.00";
     } else if (bed === "4" && bath === "3") {
       return "242.00";
     } else if (bed === "5" && bath === "3") {
-      return "272.25";
+      return "275";
     } else if (bed === "5" && bath === "4") {
       return "302.50";
     } else return "0";

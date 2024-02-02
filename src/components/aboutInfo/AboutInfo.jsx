@@ -9,7 +9,7 @@ const AboutInfo = ({ data }) => {
             data-wow-delay=".6s"
           >
             <div className="about-img">
-              <img src="/focuscleaning/assets/img/about/about.jpg" alt="" />
+              <img src="/focuscleaning/assets/img/about/about.png" alt="" />
             </div>
           </div>
           <div

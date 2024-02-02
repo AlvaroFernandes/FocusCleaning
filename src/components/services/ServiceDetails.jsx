@@ -74,7 +74,7 @@ const ServiceDetails = ({ data, page }) => {
       {loading ? (
         <div className="loader"></div>
       ) : (
-        <div className="project-single-section section-padding pb-0">
+        <div className="project-single-section pb-0">
           <div className="container">
             <div className="row">
               <div className="col-lg-12 text-aling-center">
