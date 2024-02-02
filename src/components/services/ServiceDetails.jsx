@@ -1,8 +1,8 @@
 import { useEffect, useRef, useState } from "react";
 import "./serviceDetails.css";
 import { Modal } from "react-bootstrap";
-import ModalFormQuote from "../heroArea/modal/ModalFormQuote";
-import ModalFormAvailability from "../heroArea/modal/ModalFormAvailability";
+import ModalFormQuote from "../modal/ModalFormQuote";
+import ModalFormAvailability from "../modal/ModalFormAvailability";
 import Icon from "../Icon";
 
 const ServiceDetails = ({ data, page }) => {
