@@ -6,7 +6,7 @@
   left: 0;
   width: 100%;
   height: 0;
-  background-color: #fff;
+  background-color: #e0f1ed;
   font-family: "Outfit", sans-serif;
   z-index: 999;
   padding: 10px 16px;
@@ -48,7 +48,7 @@
   }
   .mobile-nav ul li .link-item {
     width: 100%;
-    border-bottom: 1px solid #23285b;
+    border-bottom: 1px solid #4eb39a;
   }
   .mobile-nav ul li .mobile-nav-link {
     padding: 15px;
@@ -60,6 +60,9 @@
   }
   .mobile-nav ul li .mobile-nav-link.active {
     color: #4eb39a !important;
+  }
+  .mobile-nav .nav-item {
+    margin-right: 0 !important;
   }
   .nav-item .mobile-sub-menu {
     width: 100%;
@@ -106,10 +109,10 @@
     top: 0;
     right: 0;
     padding: 10px 14px;
-    font-size: 16px;
+    font-size: 22px;
     background: none;
     border: 0;
-    color: #fff;
+    color: #4eb39a;
   }
 }
 @media only screen and (max-width: 765px) {

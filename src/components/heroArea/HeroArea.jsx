@@ -45,7 +45,7 @@ const HeroArea = ({ type, data }) => {
                           {item.title.t2}
                         </p>
                       </div>
-                      <Link to={item.link} className="main-btn">
+                      <Link className="main-btn" to={item.link}>
                         Learn More
                       </Link>
                     </div>
