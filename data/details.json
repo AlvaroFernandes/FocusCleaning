@@ -50,7 +50,7 @@
   },
   "commercial": {
     "title": "Commercial Cleaning",
-    "img": "/focuscleaning/assets/img/service/commercial/photo1.jpeg",
+    "img": "/focuscleaning/assets/img/service/commercial/photo1.jpg",
     "price": 70,
     "intro": [
       "If your company values ​​maintaining a good image for its customers and recognises the benefits of a good working environment for its employees, Focus Cleaning – Office Cleaning service is the ideal service for you.",
@@ -103,7 +103,7 @@
   },
   "construction": {
     "title": "Construction Cleaning",
-    "img": "/focuscleaning/assets/img/service/construction/photo1.jpeg",
+    "img": "/focuscleaning/assets/img/service/construction/photo1.png",
     "price": 80,
     "intro": [
       "After construction of any size it is essential to remove dirt that is on the edges of floors, grouting basement and cement remnants that are scattered throughout the site.",
@@ -177,8 +177,8 @@
   },
   "endoflease": {
     "title": "End of Lease Cleaning",
-    "img": "/focuscleaning/assets/img/service/endoflease/photo1.jpeg",
-    "price": 70,
+    "img": "/focuscleaning/assets/img/service/endoflease/photo1.jpg",
+    "price": 80,
     "intro": [
       "After construction of any size it is essential to remove dirt that is on the edges of floors, grouting basement and cement remnants that are scattered throughout the site.",
       "Focus Cleaning is a company specialised in construction cleaning in Sydney.",
@@ -269,12 +269,12 @@
   },
   "spring": {
     "title": "Spring Cleaning",
-    "img": "/focuscleaning/assets/img/service/spring/photo1.jpeg",
+    "img": "/focuscleaning/assets/img/service/spring/photo1.jpg",
     "price": 65,
     "intro": [
-      "After construction of any size it is essential to remove dirt that is on the edges of floors, grouting basement and cement remnants that are scattered throughout the site.",
-      "Focus Cleaning is a company specialised in construction cleaning in Sydney.",
-      " We also include windows cleaning up to 3 levels. Affordable prices and excellent quality."
+      "Spring cleaning is a traditional practice involving deep and comprehensive cleaning, focusing not only on removing accumulated dirt and dust but also on organizing and discarding unnecessary items.",
+      "Cabinets are often the target of a thorough review. This practice not only enhances the hygiene and aesthetics of the home but can also have psychological benefits, providing a sense of renewal and well-being.",
+      "Furthermore, spring cleaning can create a healthier environment by removing allergens and promoting a lighter and more airy atmosphere. In summary, spring cleaning is a tradition beyond simple housekeeping, encompassing a comprehensive approach to revitalize the domestic space and promote a healthier and more pleasant environment."
     ],
     "subtitle": "Our spring cleaning services include:",
     "services": [
