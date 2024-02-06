@@ -3906,6 +3906,8 @@ ul.partner-social li a {
   padding: 30px 50px;
   margin-top: 50px;
   transition: 0.3s;
+  display: flex;
+  flex-direction: column;
 }
 
 .single-price-item h5 {
