@@ -2132,6 +2132,9 @@ input.form-control {
   .single-promo-item {
     padding: 35px;
   }
+  .promo-area a .bottom {
+    margin-top: -60px;
+  }
 }
 .single-promo-item h5 {
   font-size: 22px;
