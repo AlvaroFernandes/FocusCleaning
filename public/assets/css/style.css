@@ -774,8 +774,20 @@ input.form-control {
   margin-top: 0;
 }
 
+.header-area .navigation {
+  max-height: 100px;
+}
+
+.header-area .navigation .row {
+  max-height: 100px;
+}
+
+.header-area .navigation .container {
+  max-height: 95px !important;
+}
+
 .header-area .is-sticky .navigation {
-  height: auto;
+  height: 150px;
   margin-top: 0;
 }
 
@@ -1675,9 +1687,11 @@ input.form-control {
 }
 
 .header-area .logo {
-  padding: 10px;
-  margin: 10px 0;
   position: relative;
+}
+
+.header-area .logo img {
+  max-width: 90%;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header-area .logo {
@@ -1814,7 +1828,7 @@ input.form-control {
  ============== */
 .main-menu .navbar {
   padding: 0;
-  margin: 15px auto;
+  margin: 5px auto;
 }
 
 .main-menu li.nav-item {
@@ -2090,6 +2104,10 @@ input.form-control {
 
 /* Promo Section
  ============== */
+.promo-area a .bottom {
+  margin-top: 10px;
+}
+
 .single-promo-item {
   padding: 50px;
   position: relative;
@@ -3848,7 +3866,7 @@ ul.partner-social li a {
 }
 
 .breadcrumb-img-construction {
-  background-image: url(/focuscleaning/assets/img/backgrounds/construction-bg.png);
+  background-image: url(/focuscleaning/assets/img/backgrounds/construction-bg.jpg);
 }
 
 .breadcrumb-img-premium {

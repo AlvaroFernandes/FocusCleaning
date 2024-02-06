@@ -1,12 +1,13 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useForm } from "react-hook-form";
+import emailjs from "@emailjs/browser";
 
 const ModalFormAvailability = ({ data }) => {
-  const type = data;
+  const form = useRef();
   const {
     register,
     handleSubmit,
-    watch,
+    reset,
     formState: { errors }
   } = useForm({
     defaultValues: {
@@ -14,11 +15,26 @@ const ModalFormAvailability = ({ data }) => {
       email: "",
       phone: "",
       suburb: "",
-      cleanType: type
+      type: ""
     }
   });
-  const onSubmit = (data) => {
-    console.log(data);
+  const onSubmit = () => {
+    emailjs
+      .sendForm(
+        import.meta.env.VITE_EMAIL_SERVICE_ID,
+        import.meta.env.VITE_EMAIL_AVAILABILITY_ID,
+        form.current,
+        { publicKey: import.meta.env.VITE_EMAIL_PUBLIC_KEY }
+      )
+      .then(
+        (result) => {
+          console.log(result.text);
+        },
+        (error) => {
+          console.log(error);
+        }
+      );
+    reset();
   };
 
   return (
@@ -26,7 +42,7 @@ const ModalFormAvailability = ({ data }) => {
       <div className="container">
         <div className="row">
           <div className="col-12">
-            <form onSubmit={handleSubmit(onSubmit)}>
+            <form ref={form} onSubmit={handleSubmit(onSubmit)}>
               <div className="row">
                 <div className="col-12">
                   <label>Your Name*</label>
@@ -63,6 +79,9 @@ const ModalFormAvailability = ({ data }) => {
                     {...register("suburb", { required: true })}
                   />
                   {errors.suburb && <span>This field is required</span>}
+                </div>
+                <div style={{ display: "none" }}>
+                  <input type="text" {...register("type")} value={data} />
                 </div>
               </div>
               <button type="submit" className="bordered-btn">

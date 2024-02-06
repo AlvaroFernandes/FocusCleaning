@@ -3,13 +3,16 @@ import "./serviceDetails.css";
 import { Modal } from "react-bootstrap";
 import ModalFormQuote from "../modal/ModalFormQuote";
 import ModalFormAvailability from "../modal/ModalFormAvailability";
+import ModalFormQuoteEnd from "../modal/ModalFormQuoteEnd";
 import Icon from "../Icon";
+import { set } from "react-hook-form";
 
 const ServiceDetails = ({ data, page }) => {
   const [loading, setLoading] = useState(true);
   const [details, setDetails] = useState({});
   const [modalA, setModalA] = useState(false);
   const [modalQ, setModalQ] = useState(false);
+  const [modalQE, setModalQE] = useState(false);
 
   useEffect(() => {
     switch (page) {
@@ -69,6 +72,8 @@ const ServiceDetails = ({ data, page }) => {
   const handleCloseA = () => setModalA(false);
   const handleShowQ = () => setModalQ(true);
   const handleShowA = () => setModalA(true);
+  const handleShowQE = () => setModalQE(true);
+  const handleCloseQE = () => setModalQE(false);
 
   return (
     <>
@@ -113,6 +118,14 @@ const ServiceDetails = ({ data, page }) => {
                                 </button>
                               )}
                             </div>
+                            {page === "endoflease" ? (
+                              <button
+                                onClick={handleShowQE}
+                                className="main-btn small-btn"
+                              >
+                                Check prices
+                              </button>
+                            ) : null}
                             <div
                               onClick={handleShowA}
                               className="main-btn small-btn"
@@ -184,6 +197,21 @@ const ServiceDetails = ({ data, page }) => {
               </Modal.Header>
               <Modal.Body className="modal-body">
                 <ModalFormQuote />
+              </Modal.Body>
+            </Modal>
+            <Modal
+              show={modalQE}
+              centered
+              onHide={handleCloseQE}
+              animation={true}
+            >
+              <Modal.Header className="modal-header" closeButton>
+                <Modal.Title>
+                  Get a Quote for your end of lease cleaning
+                </Modal.Title>
+              </Modal.Header>
+              <Modal.Body className="modal-body">
+                <ModalFormQuoteEnd />
               </Modal.Body>
             </Modal>
           </div>

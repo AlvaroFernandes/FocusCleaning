@@ -7,12 +7,12 @@ const Cards = ({ data }) => {
     <>
       <div className="promo-area">
         <div className="container">
-          <div className="row" v-if="promo.length > 0">
+          <div className="row">
             {cards.length > 0 &&
               cards.map((item, i) => (
-                <Link to={item.link} key={item.id} className="col-lg-4 col-12">
+                <Link to={item.link} key={item.id} className="col-xl-4">
                   <div
-                    className={`single-promo-item mb-50 ${
+                    className={`single-promo-item mb-50 ${item.class} ${
                       i === 1 ? "spro" : ""
                     }`}
                   >

@@ -1,10 +1,13 @@
+import emailjs from "@emailjs/browser";
+import { useRef } from "react";
 import { useForm } from "react-hook-form";
 
 const ContactSection = () => {
+  const form = useRef();
   const {
     register,
     handleSubmit,
-    watch,
+    reset,
     formState: { errors }
   } = useForm({
     defaultValues: {
@@ -15,7 +18,25 @@ const ContactSection = () => {
       message: ""
     }
   });
-  const onSubmit = (data) => console.log(data);
+
+  const onSubmit = () => {
+    emailjs
+      .sendForm(
+        import.meta.env.VITE_EMAIL_SERVICE_ID,
+        import.meta.env.VITE_EMAIL_CONTACT_ID,
+        form.current,
+        { publicKey: import.meta.env.VITE_EMAIL_PUBLIC_KEY }
+      )
+      .then(
+        (result) => {
+          console.log(result.text);
+        },
+        (error) => {
+          console.log(error);
+        }
+      );
+    reset();
+  };
 
   return (
     <div>
@@ -35,7 +56,7 @@ const ContactSection = () => {
                 <div className="section-title">
                   <h2>Lets talk...</h2>
                 </div>
-                <form onSubmit={handleSubmit(onSubmit)}>
+                <form ref={form} onSubmit={handleSubmit(onSubmit)}>
                   <div className="row">
                     <div className="col-12">
                       <label>Your Name*</label>
