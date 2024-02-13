@@ -318,5 +318,68 @@
         ]
       }
     ]
+  },
+  "mould": {
+    "title": "Mould Cleaning",
+    "img": "/focuscleaning/assets/img/service/mould/photo1.png",
+    "price": 80,
+    "intro": [
+      "Our team efficiently remove mould from surfaces to enhance your living environment.",
+      "Whether on walls, window frames, bathroom or kitchen areas, we tackle mould to ensure your space becomes spotless but also comfortable and healthy.",
+      "Focus Cleaning is a company specialising in mould cleaning in Sydney."
+    ],
+    "subtitle": "Our mould cleaning services include:",
+    "services": [
+      {
+        "title": "Bedrooms & Living Areas:",
+        "icon": "Sofa",
+        "details": [
+          "Environmental cleaning of walls.",
+          "Thoroughly clean, dust, and wash the interior of the windows, windowsills, and ledges.",
+          "Clean the insides of cupboards and built-in wardrobes with mould.",
+          "Conduct spot cleaning of baseboard, doors, and light switches.",
+          "Every single spot that you have mould in the room."
+        ]
+      },
+      {
+        "title": "Kitchen:",
+        "icon": "Refrigerator",
+        "details": [
+          "Windowsills + Tracks.",
+          "Skirting Boards + Kickboard.",
+          "Rangehood and Vents.",
+          "Splashback.",
+          "Benches + Cabinet Doors.",
+          "Inside Cupboards + Drawers.",
+          "Clean Inside Cupboards.",
+          "Blinds.",
+          "Walls.",
+          "Vacuum + Mop Floors."
+        ]
+      },
+      {
+        "title": "Bathroom:",
+        "icon": "Bath",
+        "details": [
+          "Bath cleaned.",
+          "Environmental cleaning of walls.",
+          "All corners of the shower and bathroom with mould.",
+          "Toilets scrubbed & disinfected.",
+          "Door Frames & Tiles.",
+          "Exhaust Fans.",
+          "Mirrors Cleaned."
+        ]
+      },
+      {
+        "title": "Laundry:",
+        "icon": "WashingMachine",
+        "details": [
+          "Mirrors, cabinets, and counters are wiped down.",
+          "Floors are swept and vacuumed/mopped.",
+          "Inside cabinets and drawers are cleaned.",
+          "Windows, baseboards, light fixtures, doorknobs and doorframes are cleaned."
+        ]
+      }
+    ]
   }
 }

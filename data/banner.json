@@ -46,7 +46,7 @@
       "link": "/focuscleaning/services/construction"
     },
     {
-      "id": "b5",
+      "id": "b4",
       "img": "/focuscleaning/assets/img/backgrounds/endoflease-bg.png",
       "color": "#fff",
       "heading": "End of Lease Cleaning",
@@ -61,7 +61,7 @@
       "link": "/focuscleaning/services/endoflease"
     },
     {
-      "id": "b6",
+      "id": "b5",
       "img": "/focuscleaning/assets/img/backgrounds/spring-bg.png",
       "color": "#fff",
       "heading": "Spring Cleaning",
@@ -74,6 +74,21 @@
         "t2": "creating a healthier and more pleasant environment."
       },
       "link": "/focuscleaning/services/spring"
+    },
+    {
+      "id": "b6",
+      "img": "/focuscleaning/assets/img/backgrounds/mould-bg.png",
+      "color": "#fff",
+      "heading": "Mould Cleaning",
+      "motive": {
+        "m1": "We maintain your",
+        "m2": "house free of mould"
+      },
+      "title": {
+        "t1": "Traditional practice involving deep cleaning and organisation. It revitalizes the home,",
+        "t2": "creating a healthier and more pleasant environment."
+      },
+      "link": "/focuscleaning/services/mould"
     }
   ]
 }
