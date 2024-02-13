@@ -109,6 +109,11 @@ const HeaderArea = () => {
                                   End of Lease Cleaning
                                 </Link>
                               </li>
+                              <li>
+                                <Link to="/focuscleaning/services/mould">
+                                  Mould Cleaning
+                                </Link>
+                              </li>
                             </ul>
                           </li>
 

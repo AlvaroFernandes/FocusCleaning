@@ -61,13 +61,13 @@ const generateBreadcrumbs = (routePath) => {
         </>
       )
     });
-  } else if (currPath === "services" && idSlug === "premiun") {
+  } else if (currPath === "services" && idSlug === "mould") {
     return (path = {
-      title: "Premiun Cleaning",
-      img: "premiun",
+      title: "Mould Cleaning",
+      img: "mould",
       bread: (
         <>
-          <Link to="/focuscleaning/services">Services</Link> / Premiun Cleaning
+          <Link to="/focuscleaning/services">Services</Link> / Mould Cleaning
         </>
       )
     });

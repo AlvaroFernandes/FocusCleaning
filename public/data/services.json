@@ -22,18 +22,25 @@
       "link": "/focuscleaning/services/construction"
     },
     {
-      "id": "s5",
+      "id": "s4",
       "icon": "Truck",
       "heading": "End of Lease Cleaning",
       "title": "End of Lease Cleaning meets landlord standards with a thorough, deep clean, ensuring tenants get their full deposit back.",
       "link": "/focuscleaning/services/endoflease"
     },
     {
-      "id": "s6",
+      "id": "s5",
       "icon": "Flower",
       "heading": "Spring Cleaning",
       "title": "Traditional practice involving deep cleaning and organisation. It revitalizes the home, creating a healthier and more pleasant environment.",
       "link": "/focuscleaning/services/sping"
+    },
+    {
+      "id": "s6",
+      "icon": "Trash2",
+      "heading": "Mould Cleaning",
+      "title": "Traditional practice involving deep cleaning and organisation. It revitalizes the home, creating a healthier and more pleasant environment.",
+      "link": "/focuscleaning/services/mould"
     }
   ]
 }

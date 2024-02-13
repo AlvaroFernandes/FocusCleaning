@@ -39,10 +39,10 @@ const ServiceDetails = ({ data, page }) => {
           }
         }
         break;
-      case "premiun":
+      case "mould":
         {
           {
-            setDetails(data.premiun);
+            setDetails(data.mould);
             setLoading(false);
           }
         }

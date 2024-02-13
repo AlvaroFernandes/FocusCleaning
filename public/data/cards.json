@@ -39,6 +39,14 @@
       "icon": "Flower",
       "link": "/focuscleaning/services/spring",
       "class": "bottom"
+    },
+    {
+      "id": "p6",
+      "heading": "Mould Cleaning",
+      "title": "Our construction site cleaning services offer customised solutions that adapt to the specific needs of your project.",
+      "icon": "Trash2",
+      "link": "/focuscleaning/services/mould",
+      "class": "bottom"
     }
   ]
 }
