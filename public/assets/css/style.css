@@ -783,7 +783,7 @@ input.form-control {
 }
 
 .header-area .navigation .container {
-  max-height: 95px !important;
+  max-height: 125px !important;
 }
 
 .header-area .is-sticky .navigation {
@@ -1695,12 +1695,10 @@ input.form-control {
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header-area .logo {
-    margin: 10px 0;
   }
 }
 @media (max-width: 767px) {
   .header-area .logo {
-    margin-top: 10px;
   }
 }
 
@@ -2121,19 +2119,20 @@ input.form-control {
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .single-promo-item {
     padding: 35px;
+    margin-top: 0;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .single-promo-item {
     padding: 35px;
+    margin-top: 0;
   }
 }
 @media (max-width: 767px) {
   .single-promo-item {
     padding: 35px;
-  }
-  .promo-area a .bottom {
-    margin-top: -60px;
+    margin-top: 0;
+    
   }
 }
 .single-promo-item h5 {

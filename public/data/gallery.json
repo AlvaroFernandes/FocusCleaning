@@ -213,5 +213,22 @@
       "width": 1748,
       "height": 1240
     }
+  ],
+  "mould": [
+    {
+      "src": "/focuscleaning/assets/img/photos/mould/photo1.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/focuscleaning/assets/img/photos/mould/photo2.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/focuscleaning/assets/img/photos/mould/photo3.png",
+      "width": 1600,
+      "height": 900
+    }
   ]
 }

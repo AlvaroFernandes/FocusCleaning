@@ -12,7 +12,7 @@ const Cards = ({ data }) => {
               cards.map((item, i) => (
                 <Link to={item.link} key={item.id} className="col-xl-4">
                   <div
-                    className={`single-promo-item mb-50 ${item.class} ${
+                    className={`single-promo-item mb-20 ${
                       i === 1 ? "spro" : ""
                     }`}
                   >

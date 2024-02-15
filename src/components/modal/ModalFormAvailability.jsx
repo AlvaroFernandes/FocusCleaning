@@ -15,6 +15,7 @@ const ModalFormAvailability = ({ data }) => {
       email: "",
       phone: "",
       suburb: "",
+      message: "",
       type: ""
     }
   });
@@ -79,6 +80,18 @@ const ModalFormAvailability = ({ data }) => {
                     {...register("suburb", { required: true })}
                   />
                   {errors.suburb && <span>This field is required</span>}
+                </div>
+                <div className="col-12">
+                  <label>Message*</label>
+                  <textarea
+                    name="message"
+                    id="message"
+                    cols={30}
+                    rows={5}
+                    placeholder="Write here..."
+                    {...register("message", { required: true })}
+                  />
+                  {errors.message && <span>This field is required</span>}
                 </div>
                 <div style={{ display: "none" }}>
                   <input type="text" {...register("type")} value={data} />

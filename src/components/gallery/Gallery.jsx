@@ -33,10 +33,10 @@ const Gallery = ({ page, data }) => {
           }
         }
         break;
-      case "premiun":
+      case "mould":
         {
           {
-            setList(data.premiun);
+            setList(data.mould);
             setLoading(false);
           }
         }
