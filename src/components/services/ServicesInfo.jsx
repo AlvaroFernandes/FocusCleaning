@@ -10,27 +10,35 @@ const ServicesInfo = ({ data }) => {
     <div className="service-area  gray-bg section-padding ">
       <div className="container">
         <div className="row align-item-center position-relative">
-          <div className="col-xl-4">
+          <div className="col-xl-4 col-md-4 col-sm-12">
             <div className="section-title">
               <h6>What We Do</h6>
               <h2>What We Offer</h2>
             </div>
           </div>
-          <div className="col-xl-6">
+          <div className="col-xl-6 col-md-6 col-sm-12">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-              iaculis finibus enim sed vestibulum. Vivamus eleifend ut leo sit
-              amet mattis. Proin mattis ipsum id metus efficitur, et
-              pellentesque elit malesuada.
+              Discover the unparalleled convenience and excellence of our
+              cleaning services.
+            </p>
+            <p>
+              From routine maintenance to deep cleaning, we provide
+              comprehensice solutions tailored to meet your specific needs.
+            </p>
+            <p>
+              Experience the difference with our professional cleaning services
+              today.
             </p>
           </div>
-          <div className="slide__navigation position-relative">
-            <button className="slide__button-prev">
-              <Icon name="ArrowLeft" size="30" />
-            </button>
-            <button className="slide__button-next">
-              <Icon name="ArrowRight" size="30" />
-            </button>
+          <div className="col-xl-2 col-md-2 col-sm-12">
+            <div className="slide__navigation position-relative">
+              <button className="slide__button-prev">
+                <Icon name="ArrowLeft" size="30" />
+              </button>
+              <button className="slide__button-next">
+                <Icon name="ArrowRight" size="30" />
+              </button>
+            </div>
           </div>
           <div className="row">
             <div className="col-xl-12">

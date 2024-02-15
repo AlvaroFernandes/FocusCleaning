@@ -21,7 +21,7 @@ const HeaderArea = () => {
               <div className="row">
                 <div className="col-lg-3">
                   <div className="logo">
-                    <Link className="navbar-brand" to="/">
+                    <Link className="navbar-brand" to="/focuscleaning">
                       <img src="/focuscleaning/assets/img/logo.png" alt="" />
                     </Link>
                   </div>
