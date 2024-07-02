@@ -2,7 +2,7 @@
   "banner": [
     {
       "id": "b1",
-      "img": "/focuscleaning/assets/img/backgrounds/basic-bg.jpg",
+      "img": "/assets/img/backgrounds/basic-bg.jpg",
       "color": "#fff",
       "heading": "Basic Cleaning",
       "motive": {
@@ -13,11 +13,11 @@
         "t1": "Book our cleaning for a thorough job,",
         "t2": "tailored to your property size."
       },
-      "link": "/focuscleaning/services/basic"
+      "link": "/services/basic"
     },
     {
       "id": "b2",
-      "img": "/focuscleaning/assets/img/backgrounds/commercial-bg.jpg",
+      "img": "/assets/img/backgrounds/commercial-bg.jpg",
       "color": "#fff",
       "heading": "Commercial Cleaning",
       "motive": {
@@ -28,11 +28,11 @@
         "t1": "Office cleaning rates are determined per hour,",
         "t2": "ensuring flexibility and cost-effectiveness for your specific needs."
       },
-      "link": "/focuscleaning/services/commercial"
+      "link": "/services/commercial"
     },
     {
       "id": "b3",
-      "img": "/focuscleaning/assets/img/backgrounds/construction-bg.jpg",
+      "img": "/assets/img/backgrounds/construction-bg.jpg",
       "color": "#fff",
       "heading": "Construction Cleaning",
       "motive": {
@@ -43,11 +43,11 @@
         "t1": "Our construction site cleaning services offer customised solutions",
         "t2": "that adapt to the specific needs of your project."
       },
-      "link": "/focuscleaning/services/construction"
+      "link": "/services/construction"
     },
     {
       "id": "b4",
-      "img": "/focuscleaning/assets/img/backgrounds/endoflease-bg.png",
+      "img": "/assets/img/backgrounds/endoflease-bg.png",
       "color": "#fff",
       "heading": "End of Lease Cleaning",
       "motive": {
@@ -58,11 +58,11 @@
         "t1": "End of Lease Cleaning meets landlord standards with a thorough,",
         "t2": "deep clean, ensuring tenants get their full deposit back."
       },
-      "link": "/focuscleaning/services/endoflease"
+      "link": "/services/endoflease"
     },
     {
       "id": "b5",
-      "img": "/focuscleaning/assets/img/backgrounds/spring-bg.png",
+      "img": "/assets/img/backgrounds/spring-bg.png",
       "color": "#fff",
       "heading": "Spring Cleaning",
       "motive": {
@@ -73,11 +73,11 @@
         "t1": "Traditional practice involving deep cleaning and organisation. It revitalizes the home,",
         "t2": "creating a healthier and more pleasant environment."
       },
-      "link": "/focuscleaning/services/spring"
+      "link": "/services/spring"
     },
     {
       "id": "b6",
-      "img": "/focuscleaning/assets/img/backgrounds/mould-bg.png",
+      "img": "/assets/img/backgrounds/mould-bg.png",
       "color": "#fff",
       "heading": "Mould Cleaning",
       "motive": {
@@ -88,7 +88,7 @@
         "t1": "Traditional practice involving deep cleaning and organisation. It revitalizes the home,",
         "t2": "creating a healthier and more pleasant environment."
       },
-      "link": "/focuscleaning/services/mould"
+      "link": "/services/mould"
     }
   ]
 }

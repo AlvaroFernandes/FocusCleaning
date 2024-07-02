@@ -3,17 +3,17 @@
     {
       "id": "m1",
       "text": "Home",
-      "link": "/focuscleaning/"
+      "link": "/"
     },
     {
       "id": "m2",
       "text": "About",
-      "link": "/focuscleaning/about"
+      "link": "/about"
     },
     {
       "id": "m3",
       "text": "Services",
-      "link": "/focuscleaning/services",
+      "link": "/services",
       "dropdown": [
         {
           "id": "c1",

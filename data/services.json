@@ -5,42 +5,42 @@
       "icon": "Home",
       "heading": "Basic Cleaning",
       "title": "Book our cleaning for a thorough job, tailored to your property size.",
-      "link": "/focuscleaning/services/basic"
+      "link": "/services/basic"
     },
     {
       "id": "s2",
       "icon": "Building",
       "heading": "Commercial Cleaning",
       "title": "Office cleaning rates are determined per hour, ensuring flexibility and cost-effectiveness for your specific needs.",
-      "link": "/focuscleaning/services/commercial"
+      "link": "/services/commercial"
     },
     {
       "id": "s3",
       "icon": "BrickWall",
       "heading": "Construction Cleaning",
       "title": "Our construction site cleaning services offer customised solutions that adapt to the specific needs of your project.",
-      "link": "/focuscleaning/services/construction"
+      "link": "/services/construction"
     },
     {
       "id": "s4",
       "icon": "Truck",
       "heading": "End of Lease Cleaning",
       "title": "End of Lease Cleaning meets landlord standards with a thorough, deep clean, ensuring tenants get their full deposit back.",
-      "link": "/focuscleaning/services/endoflease"
+      "link": "/services/endoflease"
     },
     {
       "id": "s5",
       "icon": "Flower",
       "heading": "Spring Cleaning",
       "title": "Traditional practice involving deep cleaning and organisation. It revitalizes the home, creating a healthier and more pleasant environment.",
-      "link": "/focuscleaning/services/sping"
+      "link": "/services/sping"
     },
     {
       "id": "s6",
       "icon": "Trash2",
       "heading": "Mould Cleaning",
       "title": "Traditional practice involving deep cleaning and organisation. It revitalizes the home, creating a healthier and more pleasant environment.",
-      "link": "/focuscleaning/services/mould"
+      "link": "/services/mould"
     }
   ]
 }

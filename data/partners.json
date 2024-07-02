@@ -3,115 +3,115 @@
     {
       "id": "p1",
       "name": "Fighting Chance Australia",
-      "img": "/focuscleaning/assets/img/partners/FCA.png",
+      "img": "/assets/img/partners/FCA.png",
       "designation": "House Cleaning"
     },
     {
       "id": "p2",
       "name": "Absolute Environmental Services",
-      "img": "/focuscleaning/assets/img/partners/AES.png",
+      "img": "/assets/img/partners/AES.png",
       "designation": "Construction Cleaning"
     },
     {
       "id": "p3",
       "name": "Plateau Trees",
-      "img": "/focuscleaning/assets/img/partners/PT.png",
+      "img": "/assets/img/partners/PT.png",
       "designation": "Commercial Cleaning"
     },
     {
       "id": "p4",
       "name": "IPAR - Works insurance",
-      "img": "/focuscleaning/assets/img/partners/IPAR.png",
+      "img": "/assets/img/partners/IPAR.png",
       "designation": "House Cleaning"
     },
     {
       "id": "p5",
       "name": "Ozz Projects",
-      "img": "/focuscleaning/assets/img/partners/OZZ.png",
+      "img": "/assets/img/partners/OZZ.png",
       "designation": "Commercial Cleaning"
     },
     {
       "id": "p6",
       "name": "My Plan Manager",
-      "img": "/focuscleaning/assets/img/partners/MPL.png",
+      "img": "/assets/img/partners/MPL.png",
       "designation": "House Cleaning"
     },
     {
       "id": "p7",
       "name": "WC Building",
-      "img": "/focuscleaning/assets/img/partners/WCB.png",
+      "img": "/assets/img/partners/WCB.png",
       "designation": "Commercial Cleaning"
     },
     {
       "id": "p8",
       "name": "Better Planning",
-      "img": "/focuscleaning/assets/img/partners/BP.png",
+      "img": "/assets/img/partners/BP.png",
       "designation": "House Cleaning"
     },
     {
       "id": "p9",
       "name": "Kerle Constructions Pty Ltd.",
-      "img": "/focuscleaning/assets/img/partners/KC.png",
+      "img": "/assets/img/partners/KC.png",
       "designation": "Commercial Cleaning"
     },
     {
       "id": "p10",
       "name": "National Disability Insurance",
-      "img": "/focuscleaning/assets/img/partners/NDIS.png",
+      "img": "/assets/img/partners/NDIS.png",
       "designation": "House Cleaning"
     },
     {
       "id": "p11",
       "name": "TRJ and Sons Pty Ltd",
-      "img": "/focuscleaning/assets/img/partners/TS.png",
+      "img": "/assets/img/partners/TS.png",
       "designation": "Commercial Cleaning"
     },
     {
       "id": "p12",
       "name": "Home Instead - Flexibel in-house Care",
-      "img": "/focuscleaning/assets/img/partners/HIF.png",
+      "img": "/assets/img/partners/HIF.png",
       "designation": "House Cleaning"
     },
     {
       "id": "p13",
       "name": "JDL Construction",
-      "img": "/focuscleaning/assets/img/partners/JDL.jpg",
+      "img": "/assets/img/partners/JDL.jpg",
       "designation": "Commercial Cleaning"
     },
     {
       "id": "p14",
       "name": "Evolution Dasability Services",
-      "img": "/focuscleaning/assets/img/partners/EDS.jpg",
+      "img": "/assets/img/partners/EDS.jpg",
       "designation": "House Cleaning"
     },
     {
       "id": "p15",
       "name": "Realm Design and Construction",
-      "img": "/focuscleaning/assets/img/partners/RDC.png",
+      "img": "/assets/img/partners/RDC.png",
       "designation": "Commercial Cleaning"
     },
     {
       "id": "p16",
       "name": "QBE Insurance",
-      "img": "/focuscleaning/assets/img/partners/QBE.png",
+      "img": "/assets/img/partners/QBE.png",
       "designation": "House Cleaning"
     },
     {
       "id": "p17",
       "name": "Whiddon Community Care",
-      "img": "/focuscleaning/assets/img/partners/WCC.png",
+      "img": "/assets/img/partners/WCC.png",
       "designation": "House Cleaning"
     },
     {
       "id": "p18",
       "name": "My Disability Partner",
-      "img": "/focuscleaning/assets/img/partners/MDP.png",
+      "img": "/assets/img/partners/MDP.png",
       "designation": "House Cleaning"
     },
     {
       "id": "p19",
       "name": "One Agency Real Estate",
-      "img": "/focuscleaning/assets/img/partners/ONRS.png",
+      "img": "/assets/img/partners/ONRS.png",
       "designation": "Real Estate"
     }
   ]

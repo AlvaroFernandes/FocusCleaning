@@ -1,7 +1,7 @@
 {
   "basic": {
     "title": "Basic Cleaning",
-    "img": "/focuscleaning/assets/img/service/basic/photo1.jpeg",
+    "img": "/assets/img/service/basic/photo1.jpeg",
     "price": 0,
     "intro": [
       "When you choose our services, we prioritize a thorough cleaning experience. Our system considers the overall size of your property, ensuring our cleaners have the resources and time for exceptional results.",
@@ -50,7 +50,7 @@
   },
   "commercial": {
     "title": "Commercial Cleaning",
-    "img": "/focuscleaning/assets/img/service/commercial/photo1.jpg",
+    "img": "/assets/img/service/commercial/photo1.jpg",
     "price": 70,
     "intro": [
       "If your company values ​​maintaining a good image for its customers and recognises the benefits of a good working environment for its employees, Focus Cleaning – Office Cleaning service is the ideal service for you.",
@@ -103,7 +103,7 @@
   },
   "construction": {
     "title": "Construction Cleaning",
-    "img": "/focuscleaning/assets/img/service/construction/photo1.png",
+    "img": "/assets/img/service/construction/photo1.png",
     "price": 80,
     "intro": [
       "After construction of any size it is essential to remove dirt that is on the edges of floors, grouting basement and cement remnants that are scattered throughout the site.",
@@ -177,7 +177,7 @@
   },
   "endoflease": {
     "title": "End of Lease Cleaning",
-    "img": "/focuscleaning/assets/img/service/endoflease/photo1.jpg",
+    "img": "/assets/img/service/endoflease/photo1.jpg",
     "price": 80,
     "intro": [
       "After construction of any size it is essential to remove dirt that is on the edges of floors, grouting basement and cement remnants that are scattered throughout the site.",
@@ -269,7 +269,7 @@
   },
   "spring": {
     "title": "Spring Cleaning",
-    "img": "/focuscleaning/assets/img/service/spring/photo1.jpg",
+    "img": "/assets/img/service/spring/photo1.jpg",
     "price": 65,
     "intro": [
       "Spring cleaning is a traditional practice involving deep and comprehensive cleaning, focusing not only on removing accumulated dirt and dust but also on organizing and discarding unnecessary items.",
@@ -321,7 +321,7 @@
   },
   "mould": {
     "title": "Mould Cleaning",
-    "img": "/focuscleaning/assets/img/service/mould/photo1.png",
+    "img": "/assets/img/service/mould/photo1.png",
     "price": 80,
     "intro": [
       "Our team efficiently remove mould from surfaces to enhance your living environment.",
