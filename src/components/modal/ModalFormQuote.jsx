@@ -60,9 +60,9 @@ const ModalFormQuote = () => {
 
   const getPrice = () => {
     if (bed === "1" && bath === "1") {
-      return "121.00";
+      return "110.00";
     } else if (bed === "2" && bath === "1") {
-      return "151.25";
+      return "137.50";
     } else if (bed === "2" && bath === "2") {
       return "165.00";
     } else if (bed === "3" && bath === "1") {

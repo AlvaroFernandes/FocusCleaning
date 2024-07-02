@@ -10,7 +10,7 @@ const Testimonial = () => {
 
   useEffect(() => {
     axios
-      .get("/focuscleaning/data/testimonials.json")
+      .get("/data/testimonials.json")
       .then((res) => {
         setData(res.data);
         setLoading(false);

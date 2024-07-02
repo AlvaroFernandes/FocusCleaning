@@ -1,242 +1,242 @@
 {
   "basic": [
     {
-      "src": "/focuscleaning/assets/img/photos/basic/photo1.png",
+      "src": "/assets/img/photos/basic/photo1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/basic/photo2.png",
+      "src": "/assets/img/photos/basic/photo2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/basic/photo3.png",
+      "src": "/assets/img/photos/basic/photo3.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/basic/photo4.png",
+      "src": "/assets/img/photos/basic/photo4.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/basic/photo5.png",
+      "src": "/assets/img/photos/basic/photo5.png",
       "width": 1748,
       "height": 1240
     }
   ],
   "commercial": [
     {
-      "src": "/focuscleaning/assets/img/photos/commercial/photo1.png",
+      "src": "/assets/img/photos/commercial/photo1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/commercial/photo2.png",
+      "src": "/assets/img/photos/commercial/photo2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/commercial/photo3.png",
+      "src": "/assets/img/photos/commercial/photo3.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/commercial/photo4.png",
+      "src": "/assets/img/photos/commercial/photo4.png",
       "width": 1748,
       "height": 1240
     }
   ],
   "construction": [
     {
-      "src": "/focuscleaning/assets/img/photos/construction/photo2.png",
+      "src": "/assets/img/photos/construction/photo2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/construction/photo3.png",
+      "src": "/assets/img/photos/construction/photo3.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/construction/photo5.png",
+      "src": "/assets/img/photos/construction/photo5.png",
       "width": 1748,
       "height": 1240
     }
   ],
   "premiun": [
     {
-      "src": "/focuscleaning/assets/img/photos/premiun/photo1.png",
+      "src": "/assets/img/photos/premiun/photo1.png",
       "width": 1024,
       "height": 663
     },
     {
-      "src": "/focuscleaning/assets/img/photos/premiun/photo2.png",
+      "src": "/assets/img/photos/premiun/photo2.png",
       "width": 1600,
       "height": 1066
     },
     {
-      "src": "/focuscleaning/assets/img/photos/premiun/photo2.png",
+      "src": "/assets/img/photos/premiun/photo2.png",
       "width": 6692,
       "height": 4461
     }
   ],
   "endoflease": [
     {
-      "src": "/focuscleaning/assets/img/photos/endoflease/photo1.png",
+      "src": "/assets/img/photos/endoflease/photo1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/endoflease/photo2.png",
+      "src": "/assets/img/photos/endoflease/photo2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/endoflease/photo3.png",
+      "src": "/assets/img/photos/endoflease/photo3.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/endoflease/photo4.png",
+      "src": "/assets/img/photos/endoflease/photo4.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/endoflease/photo5.png",
+      "src": "/assets/img/photos/endoflease/photo5.png",
       "width": 1748,
       "height": 1240
     }
   ],
   "spring": [
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_a1.png",
+      "src": "/assets/img/photos/spring/photo_a1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_a2.png",
+      "src": "/assets/img/photos/spring/photo_a2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_b1.png",
+      "src": "/assets/img/photos/spring/photo_b1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_b2.png",
+      "src": "/assets/img/photos/spring/photo_b2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_c1.png",
+      "src": "/assets/img/photos/spring/photo_c1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_c2.png",
+      "src": "/assets/img/photos/spring/photo_c2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_d1.png",
+      "src": "/assets/img/photos/spring/photo_d1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_d2.png",
+      "src": "/assets/img/photos/spring/photo_d2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_e1.png",
+      "src": "/assets/img/photos/spring/photo_e1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_e2.png",
+      "src": "/assets/img/photos/spring/photo_e2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_f1.png",
+      "src": "/assets/img/photos/spring/photo_f1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_f2.png",
+      "src": "/assets/img/photos/spring/photo_f2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_g1.png",
+      "src": "/assets/img/photos/spring/photo_g1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_g2.png",
+      "src": "/assets/img/photos/spring/photo_g2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_h1.png",
+      "src": "/assets/img/photos/spring/photo_h1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_h2.png",
+      "src": "/assets/img/photos/spring/photo_h2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_i1.png",
+      "src": "/assets/img/photos/spring/photo_i1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_i2.png",
+      "src": "/assets/img/photos/spring/photo_i2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_j1.png",
+      "src": "/assets/img/photos/spring/photo_j1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_j2.png",
+      "src": "/assets/img/photos/spring/photo_j2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_l1.png",
+      "src": "/assets/img/photos/spring/photo_l1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_l2.png",
+      "src": "/assets/img/photos/spring/photo_l2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_m1.png",
+      "src": "/assets/img/photos/spring/photo_m1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_m2.png",
+      "src": "/assets/img/photos/spring/photo_m2.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_n1.png",
+      "src": "/assets/img/photos/spring/photo_n1.png",
       "width": 1748,
       "height": 1240
     },
     {
-      "src": "/focuscleaning/assets/img/photos/spring/photo_n2.png",
+      "src": "/assets/img/photos/spring/photo_n2.png",
       "width": 1748,
       "height": 1240
     }

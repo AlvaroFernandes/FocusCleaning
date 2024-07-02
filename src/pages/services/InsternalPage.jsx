@@ -12,10 +12,7 @@ const InternalPage = ({ page }) => {
   const [dataDetails, setDataDetails] = useState({});
   const [dataGallery, setDataGallery] = useState({});
 
-  const urls = [
-    "/focuscleaning/data/details.json",
-    "/focuscleaning/data/gallery.json"
-  ];
+  const urls = ["/data/details.json", "/data/gallery.json"];
 
   useEffect(() => {
     axios

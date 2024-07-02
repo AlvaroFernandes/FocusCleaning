@@ -7,56 +7,56 @@ const data = [
   {
     id: "m1",
     text: "Home",
-    link: "/focuscleaning/",
+    link: "/",
     dropdown: []
   },
   {
     id: "m2",
     text: "About",
-    link: "/focuscleaning/about",
+    link: "/about",
     dropdown: []
   },
   {
     id: "m3",
     text: "Services",
-    link: "/focuscleaning/services",
+    link: "/services",
     dropdown: [
       {
         id: "c1",
         text: "Basic Cleaning",
-        link: "/focuscleaning/services/basic"
+        link: "/services/basic"
       },
       {
         id: "c2",
         text: "Commercial Cleaning",
-        link: "/focuscleaning/services/commercial"
+        link: "/services/commercial"
       },
       {
         id: "c3",
         text: "Construction Cleaning",
-        link: "focuscleaning/services/construction"
+        link: "/services/construction"
       },
       {
         id: "c4",
         text: "End of Lease Cleaning",
-        link: "/focuscleaning/services/endoflease"
+        link: "/services/endoflease"
       },
       {
         id: "c5",
         text: "Spring Cleaning",
-        link: "/focuscleaning/services/spring"
+        link: "/services/spring"
       },
       {
         id: "c6",
         text: "Mould Cleaning",
-        link: "/focuscleaning/services/mould"
+        link: "/services/mould"
       }
     ]
   },
   {
     id: "m4",
     text: "Contact us",
-    link: "/focuscleaning/contact",
+    link: "/contact",
     dropdown: []
   }
 ];

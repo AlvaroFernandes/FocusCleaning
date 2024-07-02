@@ -7,10 +7,7 @@ const About = () => {
   const [dataAbout, setDataAbout] = useState({});
   const [dataPart, setDataPartners] = useState({});
 
-  const urls = [
-    "/focuscleaning/data/about.json",
-    "/focuscleaning/data/partners.json"
-  ];
+  const urls = ["/data/about.json", "/data/partners.json"];
 
   useEffect(() => {
     axios

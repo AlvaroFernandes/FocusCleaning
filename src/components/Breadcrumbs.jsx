@@ -3,8 +3,9 @@ import { useLocation } from "react-router-dom";
 
 const generateBreadcrumbs = (routePath) => {
   const route = routePath.split("/");
-  const currPath = route[2];
-  const idSlug = route[3];
+  const currPath = route[1];
+  const idSlug = route[2];
+
   let path;
 
   if (currPath === "about") {
@@ -35,7 +36,7 @@ const generateBreadcrumbs = (routePath) => {
       img: "basic",
       bread: (
         <>
-          <Link to="/focuscleaning/services">Services</Link> / Basic Cleaning
+          <Link to="/services">Services</Link> / Basic Cleaning
         </>
       )
     });
@@ -45,8 +46,7 @@ const generateBreadcrumbs = (routePath) => {
       img: "commercial",
       bread: (
         <>
-          <Link to="/focuscleaning/services">Services</Link> / Commercial
-          Cleaning
+          <Link to="/services">Services</Link> / Commercial Cleaning
         </>
       )
     });
@@ -56,8 +56,7 @@ const generateBreadcrumbs = (routePath) => {
       img: "construction",
       bread: (
         <>
-          <Link to="/focuscleaning/services">Services</Link> / Construction
-          Cleaning
+          <Link to="/services">Services</Link> / Construction Cleaning
         </>
       )
     });
@@ -67,7 +66,7 @@ const generateBreadcrumbs = (routePath) => {
       img: "mould",
       bread: (
         <>
-          <Link to="/focuscleaning/services">Services</Link> / Mould Cleaning
+          <Link to="/services">Services</Link> / Mould Cleaning
         </>
       )
     });
@@ -77,8 +76,7 @@ const generateBreadcrumbs = (routePath) => {
       img: "endoflease",
       bread: (
         <>
-          <Link to="/focuscleaning/services">Services</Link> / End of Leasing
-          Cleaning
+          <Link to="/services">Services</Link> / End of Leasing Cleaning
         </>
       )
     });
@@ -88,7 +86,7 @@ const generateBreadcrumbs = (routePath) => {
       img: "spring",
       bread: (
         <>
-          <Link to="/focuscleaning/services">Services</Link> / Spring Cleaning
+          <Link to="/services">Services</Link> / Spring Cleaning
         </>
       )
     });
@@ -106,7 +104,7 @@ const Breadcrumbs = () => {
       <div className="breadcrumb-inner">
         <h2 className="text-white">{path.title}</h2>
         <h6 className="text-white">
-          <Link to="/focuscleaning/">Home</Link> / {path.bread}
+          <Link to="/">Home</Link> / {path.bread}
         </h6>
       </div>
     </div>

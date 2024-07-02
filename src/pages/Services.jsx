@@ -8,7 +8,7 @@ const Services = () => {
 
   useEffect(() => {
     axios
-      .get("/focuscleaning/data/services.json")
+      .get("/data/services.json")
       .then((res) => {
         setData(res.data);
         setIsLoading(false);

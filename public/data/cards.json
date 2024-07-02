@@ -5,7 +5,7 @@
       "heading": "Basic Cleaning",
       "title": "Book our cleaning for a thorough job, tailored to your property size.",
       "icon": "Home",
-      "link": "/focuscleaning/services/basic",
+      "link": "/services/basic",
       "class": "top"
     },
     {
@@ -13,7 +13,7 @@
       "heading": "Commercial Cleaning",
       "title": "Office cleaning rates are determined per hour, ensuring flexibility and cost-effectiveness for your specific needs.",
       "icon": "Building",
-      "link": "/focuscleaning/services/commercial",
+      "link": "/services/commercial",
       "class": "top"
     },
     {
@@ -21,7 +21,7 @@
       "heading": "Constuction Cleaning",
       "title": "Our construction site cleaning services offer customised solutions that adapt to the specific needs of your project.",
       "icon": "BrickWall",
-      "link": "/focuscleaning/services/construction",
+      "link": "/services/construction",
       "class": "top"
     },
     {
@@ -29,7 +29,7 @@
       "heading": "End of Lease Cleaning",
       "title": "Our construction site cleaning services offer customised solutions that adapt to the specific needs of your project.",
       "icon": "Truck",
-      "link": "/focuscleaning/services/endoflease",
+      "link": "/services/endoflease",
       "class": "bottom"
     },
     {
@@ -37,7 +37,7 @@
       "heading": "Spring Cleaning",
       "title": "Our construction site cleaning services offer customised solutions that adapt to the specific needs of your project.",
       "icon": "Flower",
-      "link": "/focuscleaning/services/spring",
+      "link": "/services/spring",
       "class": "bottom"
     },
     {
@@ -45,7 +45,7 @@
       "heading": "Mould Cleaning",
       "title": "Our construction site cleaning services offer customised solutions that adapt to the specific needs of your project.",
       "icon": "Trash2",
-      "link": "/focuscleaning/services/mould",
+      "link": "/services/mould",
       "class": "bottom"
     }
   ]

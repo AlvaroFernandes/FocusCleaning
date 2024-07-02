@@ -45,10 +45,7 @@ const ContactSection = () => {
           <div className="row">
             <div className="col-xl-6 col-lg-6 col-12">
               <div className="contact-page">
-                <img
-                  src="/focuscleaning/assets/img/contact/photo1.jpeg"
-                  alt=""
-                />
+                <img src="/assets/img/contact/photo1.jpeg" alt="" />
               </div>
             </div>
             <div className="col-xl-6 col-lg-6 col-12">

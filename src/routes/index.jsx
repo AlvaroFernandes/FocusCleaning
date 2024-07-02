@@ -5,56 +5,56 @@ import { Default } from "../Layout";
 
 export const router = createBrowserRouter([
   {
-    path: "/focuscleaning/",
+    path: "/",
     element: <Default />,
     children: [
       {
-        path: "/focuscleaning/",
+        path: "/",
         element: <Home />,
         errorElement: <ErrorPage />
       },
       {
-        path: "/focuscleaning/about",
+        path: "/about",
         element: <About />,
         errorElement: <ErrorPage />
       },
       {
-        path: "/focuscleaning/services",
+        path: "/services",
         element: <Services />,
         errorElement: <ErrorPage />
       },
       {
-        path: "/focuscleaning/contact",
+        path: "/contact",
         element: <Contact />,
         errorElement: <ErrorPage />
       },
       {
-        path: "/focuscleaning/services/basic",
+        path: "/services/basic",
         element: <InternalPage page="basic" />,
         errorElement: <ErrorPage />
       },
       {
-        path: "/focuscleaning/services/commercial",
+        path: "/services/commercial",
         element: <InternalPage page="commercial" />,
         errorElement: <ErrorPage />
       },
       {
-        path: "/focuscleaning/services/construction",
+        path: "/services/construction",
         element: <InternalPage page="construction" />,
         errorElement: <ErrorPage />
       },
       {
-        path: "/focuscleaning/services/mould",
+        path: "/services/mould",
         element: <InternalPage page="mould" />,
         errorElement: <ErrorPage />
       },
       {
-        path: "/focuscleaning/services/endoflease",
+        path: "/services/endoflease",
         element: <InternalPage page="endoflease" />,
         errorElement: <ErrorPage />
       },
       {
-        path: "/focuscleaning/services/spring",
+        path: "/services/spring",
         element: <InternalPage page="spring" />,
         errorElement: <ErrorPage />
       }

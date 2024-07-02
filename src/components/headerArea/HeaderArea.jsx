@@ -22,7 +22,7 @@ const HeaderArea = () => {
                 <div className="col-lg-3">
                   <div className="logo">
                     <Link className="navbar-brand" to="/focuscleaning">
-                      <img src="/focuscleaning/assets/img/logo.png" alt="" />
+                      <img src="/assets/img/logo.png" alt="" />
                     </Link>
                   </div>
                 </div>
@@ -55,7 +55,7 @@ const HeaderArea = () => {
                               className={`nav-link ${
                                 activeMenu === "home" ? "active" : ""
                               }`}
-                              to="/focuscleaning/"
+                              to="/"
                             >
                               Home
                             </Link>
@@ -67,7 +67,7 @@ const HeaderArea = () => {
                               className={`nav-link ${
                                 activeMenu === "about" ? "active" : ""
                               }`}
-                              to="/focuscleaning/about"
+                              to="/about"
                             >
                               About
                             </Link>
@@ -78,48 +78,44 @@ const HeaderArea = () => {
                               className={`nav-link ${
                                 activeMenu === "services" ? "active" : ""
                               }`}
-                              to="/focuscleaning/services"
+                              to="/services"
                             >
                               Services
                               <span className="sub-nav-toggler"> </span>
                             </Link>
                             <ul className="sub-menu">
                               <li>
-                                <Link to="/focuscleaning/services/basic">
-                                  Basic Cleaning
-                                </Link>
+                                <Link to="/services/basic">Basic Cleaning</Link>
                               </li>
                               <li>
-                                <Link to="/focuscleaning/services/commercial">
+                                <Link to="/services/commercial">
                                   Commercial Cleaning
                                 </Link>
                               </li>
                               <li>
-                                <Link to="/focuscleaning/services/construction">
+                                <Link to="/services/construction">
                                   Construction Cleaning
                                 </Link>
                               </li>
                               <li>
-                                <Link to="/focuscleaning/services/spring">
+                                <Link to="/services/spring">
                                   Spring Cleaning
                                 </Link>
                               </li>
                               <li>
-                                <Link to="/focuscleaning/services/endoflease">
+                                <Link to="/services/endoflease">
                                   End of Lease Cleaning
                                 </Link>
                               </li>
                               <li>
-                                <Link to="/focuscleaning/services/mould">
-                                  Mould Cleaning
-                                </Link>
+                                <Link to="/services/mould">Mould Cleaning</Link>
                               </li>
                             </ul>
                           </li>
 
                           <li className="nav-item smooth-menu">
                             <Link
-                              to="/focuscleaning/contact"
+                              to="/contact"
                               onMouseEnter={() => setActiveMenu("contact")}
                               className={`nav-link ${
                                 activeMenu === "contact" ? "active" : ""
